@@ -1,36 +1,167 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Loft Insulation Services Website
+
+A modern, responsive Next.js 14 application for a professional loft insulation services company. Built with TypeScript, Tailwind CSS, and featuring a comprehensive set of components and sections.
+
+## Features
+
+### 🏠 **Complete Homepage**
+- **Hero Section** with video container and compelling CTAs
+- **Services Section** showcasing all insulation services
+- **Sectors Section** for different customer types
+- **Insulation Types** with detailed accordion interface
+- **Why Choose Us** with feature highlights
+- **Customer Testimonials** with carousel functionality
+- **Blog Preview** section
+- **Call-to-Action Banner** for lead generation
+- **FAQ Section** with expandable Q&A
+
+### 🎨 **Modern Design**
+- Clean, professional aesthetic with Tailwind CSS
+- Fully responsive design for all devices
+- Smooth animations and hover effects
+- Accessible navigation and interactions
+- SEO-optimized structure
+
+### 🧩 **Reusable Components**
+- `Header` - Sticky navigation with dropdown menus
+- `Footer` - Comprehensive footer with links and contact info
+- `Hero` - Eye-catching hero section with video
+- `ServicesSection` - Service cards with icons
+- `SectorsSection` - Sector-specific offerings
+- `InsulationTypesSection` - Accordion-style insulation types
+- `WhyChooseUsSection` - Feature highlights
+- `TestimonialsSection` - Customer testimonials carousel
+- `BlogPreviewSection` - Latest blog posts
+- `CTABanner` - Lead generation banner
+- `FAQSection` - Frequently asked questions
+
+### 📱 **Responsive Features**
+- Mobile-first design approach
+- Collapsible navigation menu
+- Touch-friendly interactions
+- Optimized layouts for all screen sizes
+
+## Tech Stack
+
+- **Framework**: Next.js 14 (App Router)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+- **UI Components**: Headless UI
+- **Font**: Inter (Google Fonts)
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+- Node.js 18+ 
+- npm or yarn
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd loft-insulation-app
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   Navigate to [http://localhost:3000](http://localhost:3000)
+
+### Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run ESLint
+
+## Project Structure
+
+```
+src/
+├── app/
+│   ├── globals.css          # Global styles
+│   ├── layout.tsx           # Root layout
+│   └── page.tsx             # Home page
+├── components/
+│   ├── Header.tsx           # Navigation header
+│   ├── Footer.tsx           # Site footer
+│   ├── Hero.tsx             # Hero section
+│   ├── ServicesSection.tsx  # Services showcase
+│   ├── SectorsSection.tsx   # Sectors showcase
+│   ├── InsulationTypesSection.tsx # Insulation types
+│   ├── WhyChooseUsSection.tsx # Why choose us
+│   ├── TestimonialsSection.tsx # Customer testimonials
+│   ├── BlogPreviewSection.tsx # Blog preview
+│   ├── CTABanner.tsx        # Call-to-action banner
+│   └── FAQSection.tsx       # FAQ section
+├── data/
+│   └── content.ts           # Content data
+├── lib/
+│   └── utils.ts             # Utility functions
+└── types/
+    └── index.ts             # TypeScript types
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Content Management
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+All content is managed through the `src/data/content.ts` file, making it easy to update:
+- Services
+- Sectors
+- Insulation types
+- Testimonials
+- Blog posts
+- FAQ items
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Customization
 
-## Learn More
+### Colors
+The design uses a blue and green color scheme that can be easily customized in the Tailwind configuration.
 
-To learn more about Next.js, take a look at the following resources:
+### Content
+Update the content in `src/data/content.ts` to match your specific services and information.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Styling
+Modify components in the `src/components/` directory to adjust the design and layout.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## SEO Features
 
-## Deploy on Vercel
+- Semantic HTML structure
+- Proper heading hierarchy (h1, h2, h3)
+- Meta tags and Open Graph data
+- Structured data ready
+- Mobile-friendly design
+- Fast loading performance
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Browser Support
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+- Mobile browsers
+
+## Deployment
+
+The application is ready for deployment on platforms like:
+- Vercel (recommended)
+- Netlify
+- AWS Amplify
+- Any Node.js hosting platform
+
+## License
+
+This project is proprietary and confidential.
+
+## Support
+
+For technical support or questions about this application, please contact the development team.
