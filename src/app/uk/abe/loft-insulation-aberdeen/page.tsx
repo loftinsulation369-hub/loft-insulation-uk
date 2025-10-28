@@ -335,7 +335,7 @@ export default function LoftInsulationAberdeenPage() {
           <div className="max-w-4xl mx-auto">
             <div className="bg-gray-50 p-8 rounded-lg">
               <p className="text-lg text-gray-700 leading-relaxed">
-                Aberdeen's climate means insulation is essential for energy efficiency and comfort. At LIS UK, we have decades of experience serving Scottish homes with insulation solutions that withstand the local weather. Our installers follow strict quality and safety standards, ensuring your home gets the best protection possible.
+                Aberdeen&apos;s climate means insulation is essential for energy efficiency and comfort. At LIS UK, we have decades of experience serving Scottish homes with insulation solutions that withstand the local weather. Our installers follow strict quality and safety standards, ensuring your home gets the best protection possible.
               </p>
             </div>
           </div>
@@ -376,7 +376,7 @@ export default function LoftInsulationAberdeenPage() {
                 </div>
                 <h3 className="text-xl font-semibold text-gray-900">Edinburgh & Glasgow</h3>
               </div>
-              <p className="text-gray-600">Scotland's major cities with dedicated installer networks.</p>
+              <p className="text-gray-600">Scotland&apos;s major cities with dedicated installer networks.</p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300">
               <div className="flex items-center mb-4">
@@ -424,7 +424,7 @@ export default function LoftInsulationAberdeenPage() {
             Get a Free Loft Insulation Quote Today
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-4xl mx-auto">
-            Whether you're in Aberdeen or anywhere in the UK, we can make your home warmer, greener, and more cost-effective. Contact LIS UK today for a free, no-obligation quote and start saving money on your heating bills.
+            Whether you&apos;re in Aberdeen or anywhere in the UK, we can make your home warmer, greener, and more cost-effective. Contact LIS UK today for a free, no-obligation quote and start saving money on your heating bills.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors duration-200">
