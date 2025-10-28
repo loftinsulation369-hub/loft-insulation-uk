@@ -109,7 +109,7 @@ export default function LoftInsulationBirminghamHodgeHillPage() {
                 Why Loft Insulation is Essential in Birmingham Hodge Hill
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Birmingham Hodge Hill experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Birmingham Hodge Hill experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 

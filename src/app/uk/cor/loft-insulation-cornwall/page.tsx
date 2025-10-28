@@ -86,7 +86,7 @@ export default function LoftInsulationCornwallPage() {
               Professional Loft Insulation Services in Cornwall
             </p>
             <p className="text-lg text-blue-200 max-w-4xl mx-auto mb-8">
-              We provide expert loft insulation services in Cornwall to help you save money, reduce heat loss, and keep your home comfortable year-round. With over a decade of experience and a team of certified installers, we deliver insulation solutions that meet the latest UK energy efficiency standards. From coastal cottages to modern homes, our team understands Cornwall's unique climate challenges and installs insulation that performs exceptionally in all conditions.
+              We provide expert loft insulation services in Cornwall to help you save money, reduce heat loss, and keep your home comfortable year-round. With over a decade of experience and a team of certified installers, we deliver insulation solutions that meet the latest UK energy efficiency standards. From coastal cottages to modern homes, our team understands Cornwall&apos;s unique climate challenges and installs insulation that performs exceptionally in all conditions.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 transform hover:scale-105 shadow-lg">
@@ -109,7 +109,7 @@ export default function LoftInsulationCornwallPage() {
                 Why Loft Insulation is Essential in Cornwall
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Cornwall experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Cornwall experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -399,7 +399,7 @@ export default function LoftInsulationCornwallPage() {
                 </div>
                 <h3 className="text-xl font-semibold text-gray-900">Truro & St Austell</h3>
               </div>
-              <p className="text-gray-600">Complete coverage of Cornwall's main towns with local expertise.</p>
+              <p className="text-gray-600">Complete coverage of Cornwall&apos;s main towns with local expertise.</p>
             </div>
             <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 border border-gray-100">
               <div className="flex items-center mb-4">
@@ -435,7 +435,7 @@ export default function LoftInsulationCornwallPage() {
             Get a Free Loft Insulation Quote in Cornwall
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-4xl mx-auto">
-            Don't let heat escape through your roof – protect your home with our expert loft insulation in Cornwall.
+            Don&apos;t let heat escape through your roof – protect your home with our expert loft insulation in Cornwall.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 transform hover:scale-105 shadow-lg">

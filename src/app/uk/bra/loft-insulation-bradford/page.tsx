@@ -86,7 +86,7 @@ export default function LoftInsulationBradfordPage() {
               Expert Loft Insulation Services in Bradford
             </p>
             <p className="text-lg text-blue-200 max-w-4xl mx-auto mb-8">
-              Looking for reliable loft insulation in Bradford to cut heating bills and improve home comfort? Our professional team has been serving Bradford households for over 20 years, delivering high-quality insulation solutions that help reduce energy costs and meet UK energy efficiency standards. With rising energy prices, there's never been a better time to insulate your loft and enjoy a warmer, more efficient home.
+              Looking for reliable loft insulation in Bradford to cut heating bills and improve home comfort? Our professional team has been serving Bradford households for over 20 years, delivering high-quality insulation solutions that help reduce energy costs and meet UK energy efficiency standards. With rising energy prices, there&apos;s never been a better time to insulate your loft and enjoy a warmer, more efficient home.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 transform hover:scale-105 shadow-lg">
@@ -109,7 +109,7 @@ export default function LoftInsulationBradfordPage() {
                 Why Loft Insulation is Essential in Bradford
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Bradford experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Bradford experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 

@@ -109,7 +109,7 @@ export default function LoftInsulationBarkingPage() {
                 Why Loft Insulation is Essential in Barking
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Barking experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Barking experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -275,7 +275,7 @@ export default function LoftInsulationBarkingPage() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Local Experts</h3>
-              <p className="text-gray-600">Experienced with Barking's housing styles and insulation needs</p>
+              <p className="text-gray-600">Experienced with Barking&apos;s housing styles and insulation needs</p>
             </div>
             <div className="text-center p-6 bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 border border-gray-100">
               <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-green-600 rounded-full flex items-center justify-center mx-auto mb-4 shadow-lg">
@@ -507,7 +507,7 @@ export default function LoftInsulationBarkingPage() {
                   Can I insulate my loft myself?
                 </h3>
                 <p className="text-gray-700 ml-9">
-                  It's possible, but professional installation ensures safety and better efficiency.
+                  It&apos;s possible, but professional installation ensures safety and better efficiency.
                 </p>
               </div>
             </div>

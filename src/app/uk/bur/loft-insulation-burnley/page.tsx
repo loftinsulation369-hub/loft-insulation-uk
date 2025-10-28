@@ -86,7 +86,7 @@ export default function LoftInsulationBurnleyPage() {
               Expert Loft Insulation Services in Burnley
             </p>
             <p className="text-lg text-blue-200 max-w-4xl mx-auto mb-8">
-              If you live in Burnley and want to reduce your energy bills while keeping your home warmer in winter and cooler in summer, professional loft insulation is the perfect solution. We provide high-quality loft insulation services designed to improve your home's energy efficiency, reduce heat loss, and help you save money year after year. With years of experience and a team of skilled installers, we offer fast, affordable, and eco-friendly insulation solutions that meet UK energy standards.
+              If you live in Burnley and want to reduce your energy bills while keeping your home warmer in winter and cooler in summer, professional loft insulation is the perfect solution. We provide high-quality loft insulation services designed to improve your home&apos;s energy efficiency, reduce heat loss, and help you save money year after year. With years of experience and a team of skilled installers, we offer fast, affordable, and eco-friendly insulation solutions that meet UK energy standards.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 transform hover:scale-105 shadow-lg">
@@ -110,7 +110,7 @@ export default function LoftInsulationBurnleyPage() {
                 Why Loft Insulation is Essential in Burnley
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Burnley experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Burnley experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -491,7 +491,7 @@ export default function LoftInsulationBurnleyPage() {
             Get Your Free Loft Insulation Quote in Burnley Today
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-4xl mx-auto">
-            Don't let heat and money escape through your roof. Upgrade your home's energy efficiency today with professional loft insulation in Burnley.
+            Don&apos;t let heat and money escape through your roof. Upgrade your home&apos;s energy efficiency today with professional loft insulation in Burnley.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 transform hover:scale-105 shadow-lg">

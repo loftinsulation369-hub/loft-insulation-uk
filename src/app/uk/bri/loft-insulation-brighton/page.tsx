@@ -86,7 +86,7 @@ export default function LoftInsulationBrightonPage() {
               Professional Loft Insulation Services in Brighton
             </p>
             <p className="text-lg text-blue-200 max-w-4xl mx-auto mb-8">
-              Looking for trusted loft insulation in Brighton to lower energy bills and keep your home comfortable all year round? We've been insulating Brighton homes for over 20 years, helping thousands of households improve energy efficiency, reduce carbon emissions, and enjoy a warmer living space. Our team of certified insulation experts uses modern, eco-friendly materials to provide lasting results that meet UK energy efficiency standards.
+              Looking for trusted loft insulation in Brighton to lower energy bills and keep your home comfortable all year round? We&apos;ve been insulating Brighton homes for over 20 years, helping thousands of households improve energy efficiency, reduce carbon emissions, and enjoy a warmer living space. Our team of certified insulation experts uses modern, eco-friendly materials to provide lasting results that meet UK energy efficiency standards.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 transform hover:scale-105 shadow-lg">
@@ -109,7 +109,7 @@ export default function LoftInsulationBrightonPage() {
                 Why Loft Insulation is Essential in Brighton
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Brighton experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Brighton experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -432,7 +432,7 @@ export default function LoftInsulationBrightonPage() {
             Get Your Free Loft Insulation Quote in Brighton Today
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-4xl mx-auto">
-            Don't let heat escape through your roof – upgrade your home with expert loft insulation in Brighton.
+            Don&apos;t let heat escape through your roof – upgrade your home with expert loft insulation in Brighton.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 transform hover:scale-105 shadow-lg">

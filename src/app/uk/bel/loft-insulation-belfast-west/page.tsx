@@ -110,7 +110,7 @@ export default function LoftInsulationBelfastWestPage() {
                 Why Loft Insulation is Essential in Belfast West
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Belfast West experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Belfast West experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -218,7 +218,7 @@ export default function LoftInsulationBelfastWestPage() {
               Why Choose Loft Insulation in Belfast West?
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Belfast West experiences cool winters and damp conditions, making proper loft insulation essential. Without it, up to 25% of your home's heat escapes through the roof, leading to higher heating costs and less comfort.
+              Belfast West experiences cool winters and damp conditions, making proper loft insulation essential. Without it, up to 25% of your home&apos;s heat escapes through the roof, leading to higher heating costs and less comfort.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -256,7 +256,7 @@ export default function LoftInsulationBelfastWestPage() {
                 </svg>
               </div>
               <h3 className="text-lg font-semibold text-gray-900 mb-2">Increase Property Value</h3>
-              <p className="text-gray-600">Boost your home's market value</p>
+              <p className="text-gray-600">Boost your home&apos;s market value</p>
             </div>
           </div>
         </div>
@@ -478,7 +478,7 @@ export default function LoftInsulationBelfastWestPage() {
             Get Your Free Loft Insulation Quote in Belfast West
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-4xl mx-auto">
-            Don't let heat escape through your roof. Contact us today for a free, no-obligation loft insulation survey in Belfast West and start saving on your energy bills.
+            Don&apos;t let heat escape through your roof. Contact us today for a free, no-obligation loft insulation survey in Belfast West and start saving on your energy bills.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 transform hover:scale-105 shadow-lg">

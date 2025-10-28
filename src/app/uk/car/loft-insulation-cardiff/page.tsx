@@ -109,7 +109,7 @@ export default function LoftInsulationCardiffPage() {
                 Why Loft Insulation is Essential in Cardiff
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Cardiff experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Cardiff experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -340,7 +340,7 @@ export default function LoftInsulationCardiffPage() {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">Over 10 Years' Experience</h3>
+              <h3 className="text-xl font-semibold text-gray-900 mb-2">Over 10 Years Experience</h3>
               <p className="text-gray-600">Proven track record</p>
             </div>
             <div className="text-center p-6 bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 border border-gray-100">

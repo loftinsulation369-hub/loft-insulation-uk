@@ -109,7 +109,7 @@ export default function LoftInsulationBirminghamPage() {
                 Why Loft Insulation is Essential in Birmingham
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Birmingham experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Birmingham experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -327,7 +327,7 @@ export default function LoftInsulationBirminghamPage() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Free Loft Survey</h3>
-              <p className="text-gray-600">We assess your home's insulation needs.</p>
+              <p className="text-gray-600">We assess your home&apos;s insulation needs.</p>
             </div>
             <div className="text-center">
               <div className="w-20 h-20 bg-gradient-to-br from-green-500 to-green-600 rounded-full flex items-center justify-center mx-auto mb-6 shadow-lg">
@@ -422,7 +422,7 @@ export default function LoftInsulationBirminghamPage() {
             Book Your Free Loft Insulation Quote in Birmingham
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-4xl mx-auto">
-            Don't let heat escape through your roof. Contact our friendly team today for a free, no-obligation loft insulation survey in Birmingham and start saving money now.
+            Don&apos;t let heat escape through your roof. Contact our friendly team today for a free, no-obligation loft insulation survey in Birmingham and start saving money now.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-all duration-200 transform hover:scale-105 shadow-lg">
@@ -480,7 +480,7 @@ export default function LoftInsulationBirminghamPage() {
                   Can I get a government grant for loft insulation?
                 </h3>
                 <p className="text-gray-700 ml-9">
-                  Yes – we can check if you're eligible for ECO4 or other schemes.
+                  Yes – we can check if you&apos;re eligible for ECO4 or other schemes.
                 </p>
               </div>
               <div className="bg-gray-50 p-6 rounded-lg">

@@ -105,13 +105,13 @@ export default function LoftInsulationBangorPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <div className="inline-flex items-center bg-red-100 rounded-full px-4 py-2 mb-4">
-              <span className="text-red-600 font-semibold text-sm">Why It's Essential</span>
+              <span className="text-red-600 font-semibold text-sm">Why It&apos;s Essential</span>
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
               Why Loft Insulation is Essential in Bangor
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              In Bangor's cool and windy climate, heat can easily escape through your roof. Without proper insulation, you could be losing up to 25% of your home's heat – wasting money and energy.
+              In Bangor&apos;s cool and windy climate, heat can easily escape through your roof. Without proper insulation, you could be losing up to 25% of your home&apos;s heat – wasting money and energy.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -224,7 +224,7 @@ export default function LoftInsulationBangorPage() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Trusted Local Installers</h3>
-              <p className="text-gray-600">Experienced in Bangor's housing needs</p>
+              <p className="text-gray-600">Experienced in Bangor&apos;s housing needs</p>
             </div>
             <div className="text-center p-6 bg-white rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 border border-gray-100">
               <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-green-600 rounded-full flex items-center justify-center mx-auto mb-4 shadow-lg">
@@ -321,7 +321,7 @@ export default function LoftInsulationBangorPage() {
               Serving Bangor and Beyond
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              We provide loft insulation in Bangor as well as surrounding areas across Gwynedd and North Wales. Whether you're in the city centre or rural outskirts, we'll bring warmth and efficiency to your home.
+              We provide loft insulation in Bangor as well as surrounding areas across Gwynedd and North Wales. Whether you&apos;re in the city centre or rural outskirts, we&apos;ll bring warmth and efficiency to your home.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
