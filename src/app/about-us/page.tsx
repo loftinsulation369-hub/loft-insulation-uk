@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -84,4 +81,3 @@ export default function AboutUsPage() {
     </div>
   );
 }
->>>>>>> 250e5e376a9912864c58af5759d99934dc0c03b9
