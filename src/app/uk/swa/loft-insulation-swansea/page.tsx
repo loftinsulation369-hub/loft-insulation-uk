@@ -76,7 +76,7 @@ export default function LoftInsulationSwanseaPage() {
               Professional Loft Insulation Services in Swansea
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Are you searching for reliable loft insulation services in Swansea? Our expert team offers premium insulation solutions designed to reduce heat loss, lower your energy bills, and enhance the comfort of your home all year round. Whether you live in Uplands, Sketty, or the city centre, we tailor our loft insulation to suit Swansea&apos;s coastal climate and your property's specific needs.
+              Are you searching for reliable loft insulation services in Swansea? Our expert team offers premium insulation solutions designed to reduce heat loss, lower your energy bills, and enhance the comfort of your home all year round. Whether you live in Uplands, Sketty, or the city centre, we tailor our loft insulation to suit Swansea&apos;s coastal climate and your property&apos;s specific needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">

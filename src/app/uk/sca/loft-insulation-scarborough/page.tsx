@@ -76,7 +76,7 @@ export default function LoftInsulationScarboroughPage() {
               Professional Loft Insulation Services in Scarborough
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for trusted loft insulation services in Scarborough? Our expert team provides premium insulation solutions designed to reduce heat loss, lower your energy bills, and improve your home&apos;s comfort throughout the year. Whether you live near the beautiful coastline or in the town centre, we offer tailored loft insulation to suit Scarborough&apos;s unique climate and your property's needs.
+              Looking for trusted loft insulation services in Scarborough? Our expert team provides premium insulation solutions designed to reduce heat loss, lower your energy bills, and improve your home&apos;s comfort throughout the year. Whether you live near the beautiful coastline or in the town centre, we offer tailored loft insulation to suit Scarborough&apos;s unique climate and your property&apos;s needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">

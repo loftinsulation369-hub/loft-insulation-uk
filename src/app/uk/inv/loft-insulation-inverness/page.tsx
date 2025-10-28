@@ -262,7 +262,7 @@ export default function LoftInsulationInvernessPage() {
                   <span className="text-2xl font-bold text-blue-600">1</span>
                 </div>
                 <h3 className="text-xl font-semibold mb-3 text-gray-800">Free Loft Survey</h3>
-                <p className="text-gray-600">Assessing your home's needs with no obligation.</p>
+                <p className="text-gray-600">Assessing your home&apos;s needs with no obligation.</p>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">
