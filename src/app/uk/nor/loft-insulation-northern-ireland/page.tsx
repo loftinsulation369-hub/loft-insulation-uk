@@ -100,7 +100,7 @@ export default function LoftInsulationNorthernIrelandPage() {
                 Why Loft Insulation is Essential in Northern Ireland
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Northern Ireland experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Northern Ireland experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -290,7 +290,7 @@ export default function LoftInsulationNorthernIrelandPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Knowledge of Northern Ireland's housing and climate needs</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Knowledge of Northern Ireland&apos;s housing and climate needs</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">
@@ -337,7 +337,7 @@ export default function LoftInsulationNorthernIrelandPage() {
               Get a Free Loft Insulation Quote in Northern Ireland
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let your hard-earned money escape through your roof. Contact us today for a free home survey and no-obligation quote for professional loft insulation services across Northern Ireland.
+              Don&apos;t let your hard-earned money escape through your roof. Contact us today for a free home survey and no-obligation quote for professional loft insulation services across Northern Ireland.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

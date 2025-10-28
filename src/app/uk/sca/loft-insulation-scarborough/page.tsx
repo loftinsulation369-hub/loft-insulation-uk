@@ -76,7 +76,7 @@ export default function LoftInsulationScarboroughPage() {
               Professional Loft Insulation Services in Scarborough
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for trusted loft insulation services in Scarborough? Our expert team provides premium insulation solutions designed to reduce heat loss, lower your energy bills, and improve your home's comfort throughout the year. Whether you live near the beautiful coastline or in the town centre, we offer tailored loft insulation to suit Scarborough's unique climate and your property's needs.
+              Looking for trusted loft insulation services in Scarborough? Our expert team provides premium insulation solutions designed to reduce heat loss, lower your energy bills, and improve your home&apos;s comfort throughout the year. Whether you live near the beautiful coastline or in the town centre, we offer tailored loft insulation to suit Scarborough&apos;s unique climate and your property's needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationScarboroughPage() {
                 Why Loft Insulation is Essential in Scarborough
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Scarborough experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Scarborough experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -207,7 +207,7 @@ export default function LoftInsulationScarboroughPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600">
-                  Scarborough's coastal location means homes often face damp, windy, and variable weather conditions. Without effective loft insulation, up to 25% of your home's heat can escape through the roof, leading to increased heating costs and discomfort. Installing quality loft insulation helps retain warmth during colder months and keeps your home energy-efficient all year round.
+                  Scarborough&apos;s coastal location means homes often face damp, windy, and variable weather conditions. Without effective loft insulation, up to 25% of your home&apos;s heat can escape through the roof, leading to increased heating costs and discomfort. Installing quality loft insulation helps retain warmth during colder months and keeps your home energy-efficient all year round.
                 </p>
                 <h3 className="text-xl font-semibold text-gray-800 mb-4">Benefits of Loft Insulation in Scarborough:</h3>
                 <ul className="space-y-4">
@@ -368,7 +368,7 @@ export default function LoftInsulationScarboroughPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Knowledge of Scarborough's coastal homes and climate</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Knowledge of Scarborough&apos;s coastal homes and climate</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">
@@ -415,7 +415,7 @@ export default function LoftInsulationScarboroughPage() {
               Get a Free Loft Insulation Quote in Scarborough
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat escape through your roof. Contact us today for a free survey and no-obligation quote for professional loft insulation in Scarborough.
+              Don&apos;t let heat escape through your roof. Contact us today for a free survey and no-obligation quote for professional loft insulation in Scarborough.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

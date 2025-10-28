@@ -79,7 +79,7 @@ export default function LoftInsulationLiverpoolPage() {
               At [Your Company Name], we provide professional loft insulation in Liverpool, helping homes and businesses save on energy costs, reduce heat loss, and enjoy year-round comfort. With over 5,000 trusted installers across the UK, we serve every part of Liverpool including Anfield, Bootle, Everton, Speke, and surrounding Merseyside areas.
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Whether you need new insulation, a top-up to meet current building regulations, or removal and replacement of old materials, we've got you covered.
+              Whether you need new insulation, a top-up to meet current building regulations, or removal and replacement of old materials, we&apos;ve got you covered.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -103,7 +103,7 @@ export default function LoftInsulationLiverpoolPage() {
                 Why Loft Insulation is Essential in Liverpool
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Liverpool experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Liverpool experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -374,7 +374,7 @@ export default function LoftInsulationLiverpoolPage() {
               Get Your Free Loft Insulation Quote in Liverpool
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat (and money) escape through your roof – upgrade your loft insulation today. Call [Your Company Name] on [Phone Number] or fill out our online enquiry form to book your free survey and no-obligation quote.
+              Don&apos;t let heat (and money) escape through your roof – upgrade your loft insulation today. Call [Your Company Name] on [Phone Number] or fill out our online enquiry form to book your free survey and no-obligation quote.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

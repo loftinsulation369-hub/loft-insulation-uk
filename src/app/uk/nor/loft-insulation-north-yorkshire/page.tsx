@@ -76,7 +76,7 @@ export default function LoftInsulationNorthYorkshirePage() {
               Professional Loft Insulation Services in North Yorkshire
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              If you're a homeowner in North Yorkshire, you know how important it is to keep your property warm during the cold winters and cool during the summer. Our professional loft insulation services help reduce heat loss, lower energy bills, and make your home more comfortable in every season. Whether you live in the historic streets of York, the market towns of Harrogate and Northallerton, or the rural beauty of the Yorkshire Dales, our insulation solutions are designed to suit your home's needs.
+              If you&apos;re a homeowner in North Yorkshire, you know how important it is to keep your property warm during the cold winters and cool during the summer. Our professional loft insulation services help reduce heat loss, lower energy bills, and make your home more comfortable in every season. Whether you live in the historic streets of York, the market towns of Harrogate and Northallerton, or the rural beauty of the Yorkshire Dales, our insulation solutions are designed to suit your home&apos;s needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationNorthYorkshirePage() {
                 Why Loft Insulation is Essential in North Yorkshire
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                North Yorkshire experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                North Yorkshire experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 

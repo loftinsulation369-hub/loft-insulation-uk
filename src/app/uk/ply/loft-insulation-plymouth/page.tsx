@@ -76,7 +76,7 @@ export default function LoftInsulationPlymouthPage() {
               Professional Loft Insulation Services in Plymouth
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Are you looking for trusted loft insulation services in Plymouth? Our expert team provides high-quality insulation solutions designed to reduce heat loss, lower your energy bills, and improve your home's comfort all year round. Whether you live near the historic Barbican or in the suburbs, we tailor our loft insulation to suit Plymouth's coastal climate and your property's specific needs.
+              Are you looking for trusted loft insulation services in Plymouth? Our expert team provides high-quality insulation solutions designed to reduce heat loss, lower your energy bills, and improve your home&apos;s comfort all year round. Whether you live near the historic Barbican or in the suburbs, we tailor our loft insulation to suit Plymouth&apos;s coastal climate and your property&apos;s specific needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationPlymouthPage() {
                 Why Loft Insulation is Essential in Plymouth
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Plymouth experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Plymouth experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -290,7 +290,7 @@ export default function LoftInsulationPlymouthPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Knowledge – Experienced with Plymouth's unique climate and homes</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Knowledge – Experienced with Plymouth&apos;s unique climate and homes</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">
@@ -337,7 +337,7 @@ export default function LoftInsulationPlymouthPage() {
               Get a Free Loft Insulation Quote in Plymouth
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let valuable heat escape through your roof. Contact us today for a free home survey and no-obligation quote for professional loft insulation in Plymouth.
+              Don&apos;t let valuable heat escape through your roof. Contact us today for a free home survey and no-obligation quote for professional loft insulation in Plymouth.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

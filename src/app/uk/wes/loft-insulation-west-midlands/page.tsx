@@ -76,7 +76,7 @@ export default function LoftInsulationWestMidlandsPage() {
               Professional Loft Insulation Services in the West Midlands
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for expert loft insulation services in the West Midlands? Our professional team offers high-quality insulation solutions designed to reduce heat loss, lower energy bills, and improve your home's comfort all year round. Whether you live in Birmingham, Coventry, Wolverhampton, or other parts of the West Midlands, we tailor our loft insulation services to meet your property's unique needs.
+              Looking for expert loft insulation services in the West Midlands? Our professional team offers high-quality insulation solutions designed to reduce heat loss, lower energy bills, and improve your home&apos;s comfort all year round. Whether you live in Birmingham, Coventry, Wolverhampton, or other parts of the West Midlands, we tailor our loft insulation services to meet your property&apos;s unique needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationWestMidlandsPage() {
                 Why Loft Insulation is Essential in West Midlands
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                West Midlands experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                West Midlands experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -337,7 +337,7 @@ export default function LoftInsulationWestMidlandsPage() {
               Get a Free Loft Insulation Quote in the West Midlands
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat escape through your roof this winter. Contact us today for a free survey and no-obligation quote for professional loft insulation services across the West Midlands.
+              Don&apos;t let heat escape through your roof this winter. Contact us today for a free survey and no-obligation quote for professional loft insulation services across the West Midlands.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

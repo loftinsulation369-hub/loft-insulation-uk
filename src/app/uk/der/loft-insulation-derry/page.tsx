@@ -103,7 +103,7 @@ export default function LoftInsulationDerryPage() {
                 Why Loft Insulation is Essential in Derry
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Derry experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Derry experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -375,7 +375,7 @@ export default function LoftInsulationDerryPage() {
               Get a Free Loft Insulation Quote in Derry
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Improve your home's comfort and reduce your energy bills with professional loft insulation in Derry. Call us today or fill out our online form for a free, no-obligation survey.
+              Improve your home&apos;s comfort and reduce your energy bills with professional loft insulation in Derry. Call us today or fill out our online form for a free, no-obligation survey.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

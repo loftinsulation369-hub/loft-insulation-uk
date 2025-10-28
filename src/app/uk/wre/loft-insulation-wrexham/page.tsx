@@ -76,7 +76,7 @@ export default function LoftInsulationWrexhamPage() {
               Professional Loft Insulation Services in Wrexham
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for trusted loft insulation services in Wrexham? Our expert team delivers premium insulation solutions designed to reduce heat loss, lower your energy bills, and improve your home's comfort all year round. Whether you live in the town centre, Rhostyllen, or surrounding villages, we tailor our loft insulation to suit Wrexham's climate and your property's unique needs.
+              Looking for trusted loft insulation services in Wrexham? Our expert team delivers premium insulation solutions designed to reduce heat loss, lower your energy bills, and improve your home&apos;s comfort all year round. Whether you live in the town centre, Rhostyllen, or surrounding villages, we tailor our loft insulation to suit Wrexham&apos;s climate and your property&apos;s unique needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -99,7 +99,7 @@ export default function LoftInsulationWrexhamPage() {
                 Why Loft Insulation is Important in Wrexham
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Wrexham experiences a temperate maritime climate with cool, damp winters, making effective loft insulation essential to maintain warmth and energy efficiency. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Wrexham experiences a temperate maritime climate with cool, damp winters, making effective loft insulation essential to maintain warmth and energy efficiency. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -289,7 +289,7 @@ export default function LoftInsulationWrexhamPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Understanding of Wrexham's homes and climate</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Understanding of Wrexham&apos;s homes and climate</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">
@@ -336,7 +336,7 @@ export default function LoftInsulationWrexhamPage() {
               Get a Free Loft Insulation Quote in Wrexham
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat escape through your roof this winter. Contact us today for a free home survey and no-obligation quote for professional loft insulation in Wrexham.
+              Don&apos;t let heat escape through your roof this winter. Contact us today for a free home survey and no-obligation quote for professional loft insulation in Wrexham.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

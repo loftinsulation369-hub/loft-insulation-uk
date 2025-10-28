@@ -99,7 +99,7 @@ export default function LoftInsulationYorkshireVillagesPage() {
                 Why Loft Insulation Matters in Yorkshire Villages
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Yorkshire's villages often have older, traditional homes that can be prone to heat loss and drafts, especially during cold winters. Without proper loft insulation, up to 25% of your home's heat escapes through the roof, increasing energy bills and reducing indoor comfort.
+                Yorkshire&apos;s villages often have older, traditional homes that can be prone to heat loss and drafts, especially during cold winters. Without proper loft insulation, up to 25% of your home&apos;s heat escapes through the roof, increasing energy bills and reducing indoor comfort.
               </p>
             </div>
 
@@ -336,7 +336,7 @@ export default function LoftInsulationYorkshireVillagesPage() {
               Get Your Free Loft Insulation Quote for Yorkshire Villages
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat escape through your roof. Contact us today for a free home survey and no-obligation quote for loft insulation services across Yorkshire villages.
+              Don&apos;t let heat escape through your roof. Contact us today for a free home survey and no-obligation quote for loft insulation services across Yorkshire villages.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

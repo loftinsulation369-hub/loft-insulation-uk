@@ -103,7 +103,7 @@ export default function LoftInsulationCraigavonPage() {
                 Why Loft Insulation is Essential in Craigavon
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Craigavon experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Craigavon experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -262,7 +262,7 @@ export default function LoftInsulationCraigavonPage() {
                   <span className="text-2xl font-bold text-blue-600">1</span>
                 </div>
                 <h3 className="text-xl font-semibold mb-3 text-gray-800">Free Loft Survey</h3>
-                <p className="text-gray-600">We assess your home's insulation needs.</p>
+                <p className="text-gray-600">We assess your home&apos;s insulation needs.</p>
               </div>
               <div className="text-center">
                 <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4">

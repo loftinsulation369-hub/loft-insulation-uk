@@ -79,7 +79,7 @@ export default function LoftInsulationLeedsPage() {
               At [Your Company Name], we provide high-quality loft insulation in Leeds to help you save energy, reduce heating bills, and make your home more comfortable. With a network of over 5,000 certified installers across the UK, we deliver fast, reliable, and affordable insulation services in Leeds and surrounding areas, including Headingley, Roundhay, Chapel Allerton, Horsforth, and more.
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Whether you're installing loft insulation for the first time, replacing outdated materials, or removing damaged insulation, our skilled team is here to help.
+              Whether you&apos;re installing loft insulation for the first time, replacing outdated materials, or removing damaged insulation, our skilled team is here to help.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -103,7 +103,7 @@ export default function LoftInsulationLeedsPage() {
                 Why Loft Insulation is Essential in Leeds
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Leeds experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Leeds experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -374,7 +374,7 @@ export default function LoftInsulationLeedsPage() {
               Get Your Free Loft Insulation Quote in Leeds
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let valuable heat escape through your roof. Contact [Your Company Name] today on [Phone Number] or fill out our online enquiry form to book your free loft survey in Leeds.
+              Don&apos;t let valuable heat escape through your roof. Contact [Your Company Name] today on [Phone Number] or fill out our online enquiry form to book your free loft survey in Leeds.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

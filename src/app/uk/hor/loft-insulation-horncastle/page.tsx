@@ -76,10 +76,10 @@ export default function LoftInsulationHorncastlePage() {
               Expert Loft Insulation Services in Horncastle
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              At [Your Company Name], we provide professional loft insulation services in Horncastle designed to help homeowners reduce heat loss, lower energy bills, and enjoy a warmer, more comfortable home. With over a decade of industry experience and access to 5,000 certified installers across the UK, we deliver high-quality insulation solutions that meet UK building standards and improve your property's energy efficiency.
+              At [Your Company Name], we provide professional loft insulation services in Horncastle designed to help homeowners reduce heat loss, lower energy bills, and enjoy a warmer, more comfortable home. With over a decade of industry experience and access to 5,000 certified installers across the UK, we deliver high-quality insulation solutions that meet UK building standards and improve your property&apos;s energy efficiency.
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Whether you're upgrading an existing loft, insulating a new build, or replacing old insulation, our team offers tailored solutions that ensure your home is protected from the cold and summer heat.
+              Whether you&apos;re upgrading an existing loft, insulating a new build, or replacing old insulation, our team offers tailored solutions that ensure your home is protected from the cold and summer heat.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -103,7 +103,7 @@ export default function LoftInsulationHorncastlePage() {
                 Why Loft Insulation is Essential in Horncastle
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Horncastle experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Horncastle experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -375,7 +375,7 @@ export default function LoftInsulationHorncastlePage() {
               Get a Free Loft Insulation Quote in Horncastle
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Want to lower your energy bills and improve your home's comfort? Contact [Your Company Name] today at [Phone Number] or fill out our online form to arrange your free survey.
+              Want to lower your energy bills and improve your home&apos;s comfort? Contact [Your Company Name] today at [Phone Number] or fill out our online form to arrange your free survey.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

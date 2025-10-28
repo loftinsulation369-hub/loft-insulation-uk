@@ -76,7 +76,7 @@ export default function LoftInsulationSheffieldPage() {
               Professional Loft Insulation Services in Sheffield
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for trusted loft insulation services in Sheffield? Our expert team offers high-quality insulation solutions designed to reduce heat loss, lower your energy bills, and improve your home's comfort all year round. Whether you live in the city centre, Crookes, Dore, or nearby areas, we provide tailored loft insulation to suit Sheffield's climate and your property's needs.
+              Looking for trusted loft insulation services in Sheffield? Our expert team offers high-quality insulation solutions designed to reduce heat loss, lower your energy bills, and improve your home&apos;s comfort all year round. Whether you live in the city centre, Crookes, Dore, or nearby areas, we provide tailored loft insulation to suit Sheffield&apos;s climate and your property&apos;s needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationSheffieldPage() {
                 Why Loft Insulation is Essential in Sheffield
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Sheffield experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Sheffield experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -290,7 +290,7 @@ export default function LoftInsulationSheffieldPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Understanding of Sheffield's homes and climate</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Understanding of Sheffield&apos;s homes and climate</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">

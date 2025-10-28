@@ -103,7 +103,7 @@ export default function LoftInsulationGlasgowPage() {
                 Why Loft Insulation is Essential in Glasgow
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Glasgow experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Glasgow experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -374,7 +374,7 @@ export default function LoftInsulationGlasgowPage() {
               Get a Free Loft Insulation Quote in Glasgow
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Upgrade your home's comfort and cut down on energy costs with professional loft insulation in Glasgow. Call us today or fill in our online form to arrange your free survey and no-obligation quote.
+              Upgrade your home&apos;s comfort and cut down on energy costs with professional loft insulation in Glasgow. Call us today or fill in our online form to arrange your free survey and no-obligation quote.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

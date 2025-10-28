@@ -76,7 +76,7 @@ export default function LoftInsulationNaHEileananAnIarPage() {
               Professional Loft Insulation Services in Na h-Eileanan an Iar
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for professional loft insulation services in Na h-Eileanan an Iar? We provide expert solutions to keep your home warm, cut energy bills, and improve comfort all year round. Serving households and businesses across the Western Isles, we understand the unique climate challenges in the region and deliver insulation that's built to last.
+              Looking for professional loft insulation services in Na h-Eileanan an Iar? We provide expert solutions to keep your home warm, cut energy bills, and improve comfort all year round. Serving households and businesses across the Western Isles, we understand the unique climate challenges in the region and deliver insulation that&apos;s built to last.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationNaHEileananAnIarPage() {
                 Why Loft Insulation is Essential in Na H Eileanan An Iar
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Na H Eileanan An Iar experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Na H Eileanan An Iar experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -207,7 +207,7 @@ export default function LoftInsulationNaHEileananAnIarPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600">
-                  In the cool, windy conditions of the Outer Hebrides, heat loss through your roof can quickly increase your energy costs. Without proper insulation, up to 25% of your home's heat could escape, making it harder and more expensive to keep warm. Installing high-quality loft insulation is one of the most cost-effective ways to improve energy efficiency and protect against the elements.
+                  In the cool, windy conditions of the Outer Hebrides, heat loss through your roof can quickly increase your energy costs. Without proper insulation, up to 25% of your home&apos;s heat could escape, making it harder and more expensive to keep warm. Installing high-quality loft insulation is one of the most cost-effective ways to improve energy efficiency and protect against the elements.
                 </p>
                 <h3 className="text-xl font-semibold text-gray-800 mb-4">Benefits of Loft Insulation in the Western Isles:</h3>
                 <ul className="space-y-4">

@@ -79,7 +79,7 @@ export default function LoftInsulationDundeePage() {
               At [Your Company Name], we specialise in delivering professional loft insulation in Dundee that helps homeowners and businesses reduce energy bills, stay warm in winter, and keep cool in summer. With over 10 years of experience and a network of trusted UK-wide installers, we provide reliable, cost-effective, and sustainable insulation solutions tailored to your property.
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Whether you're in the heart of Dundee or the surrounding towns, our friendly team ensures a smooth, hassle-free installation process that delivers long-term results.
+              Whether you&apos;re in the heart of Dundee or the surrounding towns, our friendly team ensures a smooth, hassle-free installation process that delivers long-term results.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -103,7 +103,7 @@ export default function LoftInsulationDundeePage() {
                 Why Loft Insulation is Essential in Dundee
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Dundee experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Dundee experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -304,7 +304,7 @@ export default function LoftInsulationDundeePage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">Over 10 Years' Industry Experience</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">Over 10 Years Industry Experience</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">

@@ -100,7 +100,7 @@ export default function LoftInsulationNewryPage() {
                 Why Loft Insulation is Essential in Newry
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Newry experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Newry experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -207,7 +207,7 @@ export default function LoftInsulationNewryPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600">
-                  In Newry's climate, up to 25% of heat can escape through an uninsulated roof. By installing loft insulation, you can trap heat inside during cold months, reduce energy usage, and cut your heating bills – all while doing your bit for the environment.
+                  In Newry&apos;s climate, up to 25% of heat can escape through an uninsulated roof. By installing loft insulation, you can trap heat inside during cold months, reduce energy usage, and cut your heating bills – all while doing your bit for the environment.
                 </p>
                 <h3 className="text-xl font-semibold text-gray-800 mb-4">Key Benefits of Loft Insulation:</h3>
                 <ul className="space-y-4">

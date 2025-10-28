@@ -76,7 +76,7 @@ export default function LoftInsulationPendlePage() {
               Professional Loft Insulation Services in Pendle
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Are you searching for expert loft insulation services in Pendle? Our professional team specialises in delivering high-quality insulation solutions that reduce heat loss, lower your energy bills, and improve your home's comfort throughout the year. Whether you live in Nelson, Colne, Barnoldswick, or the surrounding Pendle area, we tailor our services to meet your property's needs.
+              Are you searching for expert loft insulation services in Pendle? Our professional team specialises in delivering high-quality insulation solutions that reduce heat loss, lower your energy bills, and improve your home&apos;s comfort throughout the year. Whether you live in Nelson, Colne, Barnoldswick, or the surrounding Pendle area, we tailor our services to meet your property&apos;s needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationPendlePage() {
                 Why Loft Insulation is Essential in Pendle
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Pendle experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Pendle experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -207,7 +207,7 @@ export default function LoftInsulationPendlePage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600">
-                  Pendle's climate can be cold and damp, making efficient loft insulation essential to maintaining a comfortable and energy-efficient home. Without proper insulation, up to 25% of your home's heat can escape through the roof, increasing heating costs and reducing comfort. Our loft insulation creates a thermal barrier that keeps your home warm in winter and cool in summer.
+                  Pendle&apos;s climate can be cold and damp, making efficient loft insulation essential to maintaining a comfortable and energy-efficient home. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof, increasing heating costs and reducing comfort. Our loft insulation creates a thermal barrier that keeps your home warm in winter and cool in summer.
                 </p>
                 <h3 className="text-xl font-semibold text-gray-800 mb-4">Benefits of Loft Insulation in Pendle:</h3>
                 <ul className="space-y-4">
@@ -249,7 +249,7 @@ export default function LoftInsulationPendlePage() {
                         <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                       </svg>
                     </div>
-                    <span className="text-gray-700">Increase Property Value – Enhance your home's EPC rating</span>
+                    <span className="text-gray-700">Increase Property Value – Enhance your home&apos;s EPC rating</span>
                   </li>
                 </ul>
               </div>

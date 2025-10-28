@@ -103,7 +103,7 @@ export default function LoftInsulationLouthPage() {
                 Why Loft Insulation is Essential in Louth
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Louth experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Louth experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -378,7 +378,7 @@ export default function LoftInsulationLouthPage() {
               Get a Free Loft Insulation Quote in Louth
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Improve your home's comfort and energy efficiency today. Call [Your Company Name] on [Phone Number] or complete our online enquiry form to arrange your free survey and no-obligation quote.
+              Improve your home&apos;s comfort and energy efficiency today. Call [Your Company Name] on [Phone Number] or complete our online enquiry form to arrange your free survey and no-obligation quote.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

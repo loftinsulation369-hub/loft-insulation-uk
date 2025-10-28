@@ -103,7 +103,7 @@ export default function LoftInsulationLancashirePage() {
                 Why Loft Insulation is Essential in Lancashire
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Lancashire experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Lancashire experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -283,7 +283,7 @@ export default function LoftInsulationLancashirePage() {
                   <span className="text-2xl font-bold text-orange-600">4</span>
                 </div>
                 <h3 className="text-xl font-semibold mb-3 text-gray-800">Aftercare Advice</h3>
-                <p className="text-gray-600">Guidance to maintain your insulation's performance.</p>
+                <p className="text-gray-600">Guidance to maintain your insulation&apos;s performance.</p>
               </div>
             </div>
           </div>
@@ -374,7 +374,7 @@ export default function LoftInsulationLancashirePage() {
               Get Your Free Loft Insulation Quote in Lancashire
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat and money escape through your roof. Contact [Your Company Name] today at [Phone Number] or fill in our online enquiry form to arrange a free loft survey anywhere in Lancashire.
+              Don&apos;t let heat and money escape through your roof. Contact [Your Company Name] today at [Phone Number] or fill in our online enquiry form to arrange a free loft survey anywhere in Lancashire.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

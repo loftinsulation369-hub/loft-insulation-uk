@@ -79,7 +79,7 @@ export default function LoftInsulationInvernessPage() {
               At [Your Company Name], we specialise in delivering loft insulation services in Inverness that help homeowners save energy, reduce heating bills, and enjoy year-round comfort. With over 5,000 trusted installers operating across the UK, we provide expert installation tailored to the needs of homes in the Scottish Highlands.
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Whether you're looking to insulate a brand-new loft, upgrade outdated materials, or remove and replace old insulation, our team ensures every job meets UK energy efficiency standards for maximum performance and savings.
+              Whether you&apos;re looking to insulate a brand-new loft, upgrade outdated materials, or remove and replace old insulation, our team ensures every job meets UK energy efficiency standards for maximum performance and savings.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -103,7 +103,7 @@ export default function LoftInsulationInvernessPage() {
                 Why Loft Insulation is Essential in Inverness
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Inverness experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Inverness experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -374,7 +374,7 @@ export default function LoftInsulationInvernessPage() {
               Get Your Free Loft Insulation Quote in Inverness
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Boost your home's comfort and cut your heating bills today. Call [Your Company Name] at [Phone Number] or complete our online form to book your free loft survey in Inverness.
+              Boost your home&apos;s comfort and cut your heating bills today. Call [Your Company Name] at [Phone Number] or complete our online form to book your free loft survey in Inverness.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

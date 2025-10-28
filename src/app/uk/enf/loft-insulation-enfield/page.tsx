@@ -76,7 +76,7 @@ export default function LoftInsulationEnfieldPage() {
               Professional Loft Insulation Services in Enfield
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              At [Your Company Name], we provide expert loft insulation in Enfield to help homeowners and businesses save money on energy bills while enjoying a warmer, more comfortable living space. With over a decade of experience and a UK-wide team of 5,000 qualified installers, we deliver top-quality insulation solutions tailored to your property's needs – whether you live in a modern apartment, a family home, or a commercial building.
+              At [Your Company Name], we provide expert loft insulation in Enfield to help homeowners and businesses save money on energy bills while enjoying a warmer, more comfortable living space. With over a decade of experience and a UK-wide team of 5,000 qualified installers, we deliver top-quality insulation solutions tailored to your property&apos;s needs – whether you live in a modern apartment, a family home, or a commercial building.
             </p>
             <p className="text-lg mb-8 text-blue-200">
               Our mission is simple – make your property energy-efficient, eco-friendly, and cost-effective all year round.
@@ -103,7 +103,7 @@ export default function LoftInsulationEnfieldPage() {
                 Why Loft Insulation is Essential in Enfield
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Enfield experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Enfield experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -210,7 +210,7 @@ export default function LoftInsulationEnfieldPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600">
-                  Enfield's seasonal climate means that without proper insulation, you could be losing up to 25% of your home's heat through the roof. By installing high-performance loft insulation, you can:
+                  Enfield&apos;s seasonal climate means that without proper insulation, you could be losing up to 25% of your home&apos;s heat through the roof. By installing high-performance loft insulation, you can:
                 </p>
                 <ul className="space-y-4">
                   <li className="flex items-start">
@@ -235,7 +235,7 @@ export default function LoftInsulationEnfieldPage() {
                         <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
                       </svg>
                     </div>
-                    <span className="text-gray-700">Boost your property's EPC rating</span>
+                    <span className="text-gray-700">Boost your property&apos;s EPC rating</span>
                   </li>
                   <li className="flex items-start">
                     <div className="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center mr-3 mt-1">

@@ -103,7 +103,7 @@ export default function LoftInsulationLincolnshirePage() {
                 Why Loft Insulation is Essential in Lincolnshire
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Lincolnshire experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Lincolnshire experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -375,7 +375,7 @@ export default function LoftInsulationLincolnshirePage() {
               Book Your Free Loft Insulation Survey in Lincolnshire
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let your home lose valuable heat through the roof. Call [Your Company Name] today on [Phone Number] or complete our online enquiry form to arrange a free survey and quotation in Lincolnshire.
+              Don&apos;t let your home lose valuable heat through the roof. Call [Your Company Name] today on [Phone Number] or complete our online enquiry form to arrange a free survey and quotation in Lincolnshire.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

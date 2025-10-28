@@ -76,7 +76,7 @@ export default function LoftInsulationSandwellPage() {
               Professional Loft Insulation Services in Sandwell
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for expert loft insulation services in Sandwell? Our professional team delivers high-quality insulation solutions designed to reduce heat loss, lower your energy bills, and enhance your home's comfort all year round. Whether you live in West Bromwich, Smethwick, Oldbury, or surrounding areas, we tailor our loft insulation services to meet your property's unique needs.
+              Looking for expert loft insulation services in Sandwell? Our professional team delivers high-quality insulation solutions designed to reduce heat loss, lower your energy bills, and enhance your home&apos;s comfort all year round. Whether you live in West Bromwich, Smethwick, Oldbury, or surrounding areas, we tailor our loft insulation services to meet your property&apos;s unique needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationSandwellPage() {
                 Why Loft Insulation is Essential in Sandwell
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Sandwell experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Sandwell experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -207,7 +207,7 @@ export default function LoftInsulationSandwellPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600">
-                  Sandwell experiences cool winters and variable weather, making efficient loft insulation essential for a cosy and energy-efficient home. Without proper insulation, up to 25% of your home's heat can escape through the roof, leading to higher heating costs and discomfort. Our loft insulation creates a thermal barrier to keep your home warm during winter and cool during summer.
+                  Sandwell experiences cool winters and variable weather, making efficient loft insulation essential for a cosy and energy-efficient home. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof, leading to higher heating costs and discomfort. Our loft insulation creates a thermal barrier to keep your home warm during winter and cool during summer.
                 </p>
                 <h3 className="text-xl font-semibold text-gray-800 mb-4">Benefits of Loft Insulation in Sandwell:</h3>
                 <ul className="space-y-4">
@@ -368,7 +368,7 @@ export default function LoftInsulationSandwellPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Understanding of Sandwell's homes and climate</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Understanding of Sandwell&apos;s homes and climate</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">
@@ -415,7 +415,7 @@ export default function LoftInsulationSandwellPage() {
               Get a Free Loft Insulation Quote in Sandwell
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat escape through your roof. Contact us today for a free survey and no-obligation quote for professional loft insulation in Sandwell.
+              Don&apos;t let heat escape through your roof. Contact us today for a free survey and no-obligation quote for professional loft insulation in Sandwell.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

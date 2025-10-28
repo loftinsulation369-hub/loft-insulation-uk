@@ -103,7 +103,7 @@ export default function LoftInsulationLondonderryPage() {
                 Why Loft Insulation is Essential in Londonderry
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Londonderry experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Londonderry experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -389,7 +389,7 @@ export default function LoftInsulationLondonderryPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">10+ years' experience in insulation services</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">10+ years experience in insulation services</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">
@@ -462,7 +462,7 @@ export default function LoftInsulationLondonderryPage() {
               Get a Free Loft Insulation Quote in Londonderry
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat – and money – escape through your roof. Upgrade your loft insulation today. Call [Your Company Name] on [Phone Number] or fill out our online enquiry form to book your free survey and no-obligation quote.
+              Don&apos;t let heat – and money – escape through your roof. Upgrade your loft insulation today. Call [Your Company Name] on [Phone Number] or fill out our online enquiry form to book your free survey and no-obligation quote.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

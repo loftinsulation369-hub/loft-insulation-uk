@@ -79,7 +79,7 @@ export default function LoftInsulationCumbriaPage() {
               At [Your Company Name], we specialise in loft insulation in Cumbria to help homeowners cut energy costs, improve comfort, and reduce carbon emissions. With over 10 years of experience and a trusted network of certified installers, we deliver high-quality insulation solutions for all property types.
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Whether you're in Carlisle, Kendal, Workington, Barrow-in-Furness, or anywhere in between, our local team is ready to make your home more energy efficient.
+              Whether you&apos;re in Carlisle, Kendal, Workington, Barrow-in-Furness, or anywhere in between, our local team is ready to make your home more energy efficient.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -103,7 +103,7 @@ export default function LoftInsulationCumbriaPage() {
                 Why Loft Insulation is Essential in Cumbria
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Cumbria experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Cumbria experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 

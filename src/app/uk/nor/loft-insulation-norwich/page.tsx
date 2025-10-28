@@ -76,7 +76,7 @@ export default function LoftInsulationNorwichPage() {
               Professional Loft Insulation Services in Norwich
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Are you looking for expert loft insulation services in Norwich? Our professional team offers high-quality insulation solutions designed to reduce heat loss, lower energy costs, and improve comfort throughout the year. Whether you own a historic townhouse in the city centre or a modern family home in the suburbs, we provide insulation tailored to Norwich's unique climate and your property's needs.
+              Are you looking for expert loft insulation services in Norwich? Our professional team offers high-quality insulation solutions designed to reduce heat loss, lower energy costs, and improve comfort throughout the year. Whether you own a historic townhouse in the city centre or a modern family home in the suburbs, we provide insulation tailored to Norwich&apos;s unique climate and your property&apos;s needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationNorwichPage() {
                 Why Loft Insulation is Essential in Norwich
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Norwich experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Norwich experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -207,7 +207,7 @@ export default function LoftInsulationNorwichPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600">
-                  Norwich experiences cool winters and mild summers, making efficient loft insulation essential to maintaining a comfortable home. Without proper insulation, up to 25% of your home's heat can escape through your loft, leading to higher heating bills and less energy efficiency. Our loft insulation services create an effective thermal barrier that keeps your home warm in winter and cool in summer.
+                  Norwich experiences cool winters and mild summers, making efficient loft insulation essential to maintaining a comfortable home. Without proper insulation, up to 25% of your home&apos;s heat can escape through your loft, leading to higher heating bills and less energy efficiency. Our loft insulation services create an effective thermal barrier that keeps your home warm in winter and cool in summer.
                 </p>
                 <h3 className="text-xl font-semibold text-gray-800 mb-4">Benefits of Loft Insulation in Norwich:</h3>
                 <ul className="space-y-4">
@@ -368,7 +368,7 @@ export default function LoftInsulationNorwichPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Experienced in Norwich's homes and climate</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Experienced in Norwich&apos;s homes and climate</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">

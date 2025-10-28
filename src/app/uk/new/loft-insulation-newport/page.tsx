@@ -76,7 +76,7 @@ export default function LoftInsulationNewportPage() {
               Professional Loft Insulation Services in Newport
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              If you're looking for professional loft insulation in Newport, you've come to the right place. We provide high-quality insulation services that help reduce heat loss, lower your energy bills, and make your home more comfortable all year round. From modern builds to older Welsh homes, our insulation solutions are tailored to meet your property's needs and Newport's climate.
+              If you&apos;re looking for professional loft insulation in Newport, you&apos;ve come to the right place. We provide high-quality insulation services that help reduce heat loss, lower your energy bills, and make your home more comfortable all year round. From modern builds to older Welsh homes, our insulation solutions are tailored to meet your property&apos;s needs and Newport&apos;s climate.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationNewportPage() {
                 Why Loft Insulation is Essential in Newport
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Newport experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Newport experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -337,7 +337,7 @@ export default function LoftInsulationNewportPage() {
               Get Your Free Loft Insulation Quote in Newport
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat escape through your roof this winter. Contact us today for a free survey and no-obligation quote for professional loft insulation in Newport.
+              Don&apos;t let heat escape through your roof this winter. Contact us today for a free survey and no-obligation quote for professional loft insulation in Newport.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

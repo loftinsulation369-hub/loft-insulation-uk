@@ -99,7 +99,7 @@ export default function LoftInsulationManchesterPage() {
                 Why Loft Insulation is Essential in Manchester
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Manchester experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Manchester experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -257,7 +257,7 @@ export default function LoftInsulationManchesterPage() {
             </h2>
             <div className="bg-gradient-to-br from-blue-50 to-indigo-100 p-8 rounded-xl">
               <p className="text-lg text-gray-700 mb-6 text-center">
-                Whether you're in City Centre, Salford, Didsbury, Chorlton, Stockport, or Greater Manchester, our certified installers are ready to help. We use premium materials from trusted brands, ensuring long-lasting results.
+                Whether you&apos;re in City Centre, Salford, Didsbury, Chorlton, Stockport, or Greater Manchester, our certified installers are ready to help. We use premium materials from trusted brands, ensuring long-lasting results.
               </p>
               <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
                 {['City Centre', 'Salford', 'Didsbury', 'Chorlton', 'Stockport', 'Altrincham', 'Bury', 'Rochdale'].map((area, index) => (
@@ -335,7 +335,7 @@ export default function LoftInsulationManchesterPage() {
               Get a Free Loft Insulation Quote in Manchester
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Ready to save money and improve your home's comfort? Contact us today for a free survey and no-obligation quote. Our Manchester loft insulation experts will assess your property and recommend the best solution for your needs.
+              Ready to save money and improve your home&apos;s comfort? Contact us today for a free survey and no-obligation quote. Our Manchester loft insulation experts will assess your property and recommend the best solution for your needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

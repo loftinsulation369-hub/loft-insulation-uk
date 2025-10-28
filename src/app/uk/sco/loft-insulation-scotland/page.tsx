@@ -76,7 +76,7 @@ export default function LoftInsulationScotlandPage() {
               Professional Loft Insulation Services Across Scotland
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for expert loft insulation services throughout Scotland? Our experienced team provides premium insulation solutions tailored to Scotland's diverse climate—from the bustling cities of Glasgow and Edinburgh to the serene Highlands and Islands. Our loft insulation helps you reduce heat loss, lower energy costs, and enjoy a warmer, more comfortable home year-round.
+              Looking for expert loft insulation services throughout Scotland? Our experienced team provides premium insulation solutions tailored to Scotland&apos;s diverse climate—from the bustling cities of Glasgow and Edinburgh to the serene Highlands and Islands. Our loft insulation helps you reduce heat loss, lower energy costs, and enjoy a warmer, more comfortable home year-round.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationScotlandPage() {
                 Why Loft Insulation is Essential in Scotland
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Scotland experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Scotland experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -207,7 +207,7 @@ export default function LoftInsulationScotlandPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600">
-                  Scotland's cool, often wet climate makes proper loft insulation essential to maintain energy efficiency and comfort in your home. Without adequate insulation, up to 25% of your home's heat can escape through the roof, increasing heating bills and causing cold spots. Installing high-quality loft insulation creates a thermal barrier that keeps your home warm in winter and helps regulate temperature in summer.
+                  Scotland&apos;s cool, often wet climate makes proper loft insulation essential to maintain energy efficiency and comfort in your home. Without adequate insulation, up to 25% of your home&apos;s heat can escape through the roof, increasing heating bills and causing cold spots. Installing high-quality loft insulation creates a thermal barrier that keeps your home warm in winter and helps regulate temperature in summer.
                 </p>
                 <h3 className="text-xl font-semibold text-gray-800 mb-4">Benefits of Loft Insulation Across Scotland:</h3>
                 <ul className="space-y-4">
@@ -415,7 +415,7 @@ export default function LoftInsulationScotlandPage() {
               Get Your Free Loft Insulation Quote in Scotland
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat escape through your roof this winter. Contact us today for a free survey and no-obligation quote for professional loft insulation services across Scotland.
+              Don&apos;t let heat escape through your roof this winter. Contact us today for a free survey and no-obligation quote for professional loft insulation services across Scotland.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

@@ -76,7 +76,7 @@ export default function LoftInsulationNorthEastCoastalPage() {
               Professional Loft Insulation Services for North East Coastal Areas
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              If you live along the North East coastal areas of England, you'll know how the chilly sea winds can make homes harder to heat. Our professional loft insulation services help protect your home from heat loss, reduce your energy bills, and keep you comfortable all year round. From seaside cottages to modern apartments, we deliver insulation solutions designed for coastal living.
+              If you live along the North East coastal areas of England, you&apos;ll know how the chilly sea winds can make homes harder to heat. Our professional loft insulation services help protect your home from heat loss, reduce your energy bills, and keep you comfortable all year round. From seaside cottages to modern apartments, we deliver insulation solutions designed for coastal living.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationNorthEastCoastalPage() {
                 Why Loft Insulation is Essential in North East Coastal
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                North East Coastal experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                North East Coastal experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -337,7 +337,7 @@ export default function LoftInsulationNorthEastCoastalPage() {
               Get a Free Loft Insulation Quote Today
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let the cold coastal winds drive up your heating bills. Contact us now for a free survey and no-obligation quote for loft insulation in the North East coastal region.
+              Don&apos;t let the cold coastal winds drive up your heating bills. Contact us now for a free survey and no-obligation quote for loft insulation in the North East coastal region.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

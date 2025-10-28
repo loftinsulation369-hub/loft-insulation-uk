@@ -76,7 +76,7 @@ export default function LoftInsulationWalsallPage() {
               Professional Loft Insulation Services in Walsall
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for trusted loft insulation services in Walsall? Our expert team provides top-quality insulation solutions designed to reduce heat loss, lower your energy bills, and improve the comfort of your home all year round. Whether you live in Aldridge, Bloxwich, or the town centre, we tailor our loft insulation services to suit Walsall's climate and your property's unique needs.
+              Looking for trusted loft insulation services in Walsall? Our expert team provides top-quality insulation solutions designed to reduce heat loss, lower your energy bills, and improve the comfort of your home all year round. Whether you live in Aldridge, Bloxwich, or the town centre, we tailor our loft insulation services to suit Walsall&apos;s climate and your property&apos;s unique needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationWalsallPage() {
                 Why Loft Insulation is Essential in Walsall
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Walsall experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Walsall experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -207,7 +207,7 @@ export default function LoftInsulationWalsallPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600">
-                  Walsall experiences cool winters and variable weather, making efficient loft insulation essential for a cosy and energy-efficient home. Without proper insulation, up to 25% of your home's heat can escape through the roof, increasing heating costs and discomfort. Our loft insulation creates a thermal barrier to keep your home warm during winter and cool during summer.
+                  Walsall experiences cool winters and variable weather, making efficient loft insulation essential for a cosy and energy-efficient home. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof, increasing heating costs and discomfort. Our loft insulation creates a thermal barrier to keep your home warm during winter and cool during summer.
                 </p>
                 <h3 className="text-xl font-semibold text-gray-800 mb-4">Benefits of Loft Insulation in Walsall:</h3>
                 <ul className="space-y-4">
@@ -368,7 +368,7 @@ export default function LoftInsulationWalsallPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Knowledge – Understanding of Walsall's homes and climate</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Knowledge – Understanding of Walsall&apos;s homes and climate</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">

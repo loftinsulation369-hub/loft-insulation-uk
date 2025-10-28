@@ -102,7 +102,7 @@ export default function LoftInsulationHartlepoolPage() {
                 Why Loft Insulation is Essential in Hartlepool
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Hartlepool experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Hartlepool experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -373,7 +373,7 @@ export default function LoftInsulationHartlepoolPage() {
               Get Your Free Loft Insulation Quote in Hartlepool
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Ready to reduce energy costs and improve your home's comfort? Contact [Your Company Name] today on [Phone Number] or complete our online form to arrange your free survey.
+              Ready to reduce energy costs and improve your home&apos;s comfort? Contact [Your Company Name] today on [Phone Number] or complete our online form to arrange your free survey.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

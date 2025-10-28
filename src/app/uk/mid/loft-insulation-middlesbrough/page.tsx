@@ -76,7 +76,7 @@ export default function LoftInsulationMiddlesbroughPage() {
               Professional Loft Insulation Services in Middlesbrough
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              If you're looking for professional loft insulation services in Middlesbrough, you've come to the right place. We provide top-quality insulation solutions to keep your home warm in winter, cool in summer, and energy-efficient all year round. Our skilled team works across Middlesbrough and surrounding areas, helping homeowners, landlords, and businesses improve their property's thermal performance and lower heating costs.
+              If you&apos;re looking for professional loft insulation services in Middlesbrough, you&apos;ve come to the right place. We provide top-quality insulation solutions to keep your home warm in winter, cool in summer, and energy-efficient all year round. Our skilled team works across Middlesbrough and surrounding areas, helping homeowners, landlords, and businesses improve their property&apos;s thermal performance and lower heating costs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationMiddlesbroughPage() {
                 Why Loft Insulation is Essential in Middlesbrough
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Middlesbrough experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Middlesbrough experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 

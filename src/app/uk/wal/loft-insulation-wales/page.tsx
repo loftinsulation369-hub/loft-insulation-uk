@@ -76,7 +76,7 @@ export default function LoftInsulationWalesPage() {
               Professional Loft Insulation Services Across Wales
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for expert loft insulation services across Wales? Our professional team delivers high-quality insulation solutions tailored to Wales' varied climate—from the coastal regions to the valleys and mountains. Our loft insulation helps reduce heat loss, lower energy bills, and improve your home's comfort all year round.
+              Looking for expert loft insulation services across Wales? Our professional team delivers high-quality insulation solutions tailored to Wales varied climate—from the coastal regions to the valleys and mountains. Our loft insulation helps reduce heat loss, lower energy bills, and improve your home&apos;s comfort all year round.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationWalesPage() {
                 Why Loft Insulation is Essential in Wales
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Wales experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Wales experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -337,7 +337,7 @@ export default function LoftInsulationWalesPage() {
               Get Your Free Loft Insulation Quote in Wales
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat escape through your roof this winter. Contact us today for a free survey and no-obligation quote for professional loft insulation services across Wales.
+              Don&apos;t let heat escape through your roof this winter. Contact us today for a free survey and no-obligation quote for professional loft insulation services across Wales.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

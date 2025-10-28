@@ -76,7 +76,7 @@ export default function LoftInsulationCroydonPage() {
               Professional Loft Insulation Services in Croydon
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              At [Your Company Name], we specialise in delivering top-quality loft insulation in Croydon, helping homeowners cut energy costs, reduce heat loss, and improve their property's comfort. With over a decade of experience and a network of skilled, fully certified installers, we provide insulation solutions that meet and exceed UK energy efficiency standards.
+              At [Your Company Name], we specialise in delivering top-quality loft insulation in Croydon, helping homeowners cut energy costs, reduce heat loss, and improve their property&apos;s comfort. With over a decade of experience and a network of skilled, fully certified installers, we provide insulation solutions that meet and exceed UK energy efficiency standards.
             </p>
             <p className="text-lg mb-8 text-blue-200">
               Whether your property is a modern apartment, a period home, or a family house, our experts offer tailored services designed to keep your home warm in winter and cool in summer.
@@ -103,7 +103,7 @@ export default function LoftInsulationCroydonPage() {
                 Why Loft Insulation is Essential in Croydon
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Croydon experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Croydon experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -374,7 +374,7 @@ export default function LoftInsulationCroydonPage() {
               Get a Free Loft Insulation Quote in Croydon Today
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Upgrade your home's energy efficiency with expert loft insulation in Croydon. Call us now or complete our online form to book your free survey and get a no-obligation quote.
+              Upgrade your home&apos;s energy efficiency with expert loft insulation in Croydon. Call us now or complete our online form to book your free survey and get a no-obligation quote.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

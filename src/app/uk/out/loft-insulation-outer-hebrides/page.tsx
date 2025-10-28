@@ -100,7 +100,7 @@ export default function LoftInsulationOuterHebridesPage() {
                 Why Loft Insulation is Essential in Outer Hebrides
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Outer Hebrides experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Outer Hebrides experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -337,7 +337,7 @@ export default function LoftInsulationOuterHebridesPage() {
               Get Your Free Loft Insulation Quote Today
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let your home lose precious heat this winter. Contact us now for a free survey and no-obligation quote for professional loft insulation in the Outer Hebrides.
+              Don&apos;t let your home lose precious heat this winter. Contact us now for a free survey and no-obligation quote for professional loft insulation in the Outer Hebrides.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

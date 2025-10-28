@@ -76,7 +76,7 @@ export default function LoftInsulationNewcastlePage() {
               Professional Loft Insulation Services in Newcastle
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              Looking for professional loft insulation in Newcastle? We provide expert insulation services to help you cut energy bills, reduce heat loss, and enjoy a warmer, more comfortable home. Serving households and businesses across Newcastle and the surrounding areas, we deliver solutions tailored to the region's climate and your property's needs.
+              Looking for professional loft insulation in Newcastle? We provide expert insulation services to help you cut energy bills, reduce heat loss, and enjoy a warmer, more comfortable home. Serving households and businesses across Newcastle and the surrounding areas, we deliver solutions tailored to the region&apos;s climate and your property&apos;s needs.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a href="#contact" className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -100,7 +100,7 @@ export default function LoftInsulationNewcastlePage() {
                 Why Loft Insulation is Essential in Newcastle
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Newcastle experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Newcastle experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
@@ -207,7 +207,7 @@ export default function LoftInsulationNewcastlePage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div className="space-y-6">
                 <p className="text-lg text-gray-600">
-                  In Newcastle's cooler winters, heat can escape quickly through your roof if your loft isn't properly insulated. Up to 25% of your home's heat could be lost, making your heating system work harder and costing you more. Loft insulation is one of the most effective ways to improve your home's energy efficiency while lowering your carbon footprint.
+                  In Newcastle&apos;s cooler winters, heat can escape quickly through your roof if your loft isn&apos;t properly insulated. Up to 25% of your home&apos;s heat could be lost, making your heating system work harder and costing you more. Loft insulation is one of the most effective ways to improve your home&apos;s energy efficiency while lowering your carbon footprint.
                 </p>
                 <h3 className="text-xl font-semibold text-gray-800 mb-4">Benefits of Loft Insulation in Newcastle:</h3>
                 <ul className="space-y-4">
@@ -368,7 +368,7 @@ export default function LoftInsulationNewcastlePage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                   </svg>
                 </div>
-                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Knowledge of Newcastle's housing and climate</h3>
+                <h3 className="text-lg font-semibold mb-2 text-gray-800">Local Expertise – Knowledge of Newcastle&apos;s housing and climate</h3>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-lg text-center">
                 <div className="w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center mx-auto mb-4">
@@ -415,7 +415,7 @@ export default function LoftInsulationNewcastlePage() {
               Get a Free Quote for Loft Insulation in Newcastle
             </h2>
             <p className="text-xl mb-8 text-blue-100">
-              Don't let heat escape through your roof this winter. Contact us today for a free survey and no-obligation quote for professional loft insulation in Newcastle.
+              Don&apos;t let heat escape through your roof this winter. Contact us today for a free survey and no-obligation quote for professional loft insulation in Newcastle.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <a href="tel:0800-XXX-XXXX" className="bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors text-lg">

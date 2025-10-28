@@ -76,7 +76,7 @@ export default function LoftInsulationEdinburghPage() {
               Expert Loft Insulation Services in Edinburgh
             </p>
             <p className="text-lg mb-8 text-blue-200">
-              At [Your Company Name], we provide high-quality loft insulation in Edinburgh to help homeowners and businesses cut energy bills, improve comfort, and reduce their carbon footprint. With over a decade of experience and a UK-wide network of professional installers, we deliver insulation solutions tailored to your property's needs – whether it's a traditional Edinburgh townhouse, a modern flat, or a commercial building.
+              At [Your Company Name], we provide high-quality loft insulation in Edinburgh to help homeowners and businesses cut energy bills, improve comfort, and reduce their carbon footprint. With over a decade of experience and a UK-wide network of professional installers, we deliver insulation solutions tailored to your property&apos;s needs – whether it&apos;s a traditional Edinburgh townhouse, a modern flat, or a commercial building.
             </p>
             <p className="text-lg mb-8 text-blue-200">
               Our mission is simple: make your home warmer, greener, and more energy-efficient – all year round.
@@ -103,7 +103,7 @@ export default function LoftInsulationEdinburghPage() {
                 Why Loft Insulation is Essential in Edinburgh
               </h2>
               <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-                Edinburgh experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home's heat can escape through the roof.
+                Edinburgh experiences a temperate climate with cool winters and mild summers, making effective loft insulation critical to maintain energy efficiency and indoor comfort. Without proper insulation, up to 25% of your home&apos;s heat can escape through the roof.
               </p>
             </div>
 
