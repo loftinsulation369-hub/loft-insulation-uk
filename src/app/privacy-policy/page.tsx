@@ -231,7 +231,7 @@ export default function PrivacyPolicyPage() {
                   <div className="flex-shrink-0 w-8 h-8 rounded-lg bg-purple-100 text-purple-600 flex items-center justify-center mr-4 mt-0.5 group-hover/item:bg-purple-600 group-hover/item:text-white transition-colors duration-200">
                     <Shield className="h-4 w-4" />
                   </div>
-                  <span className="text-lg text-gray-700 pt-1">Lodge a complaint with the ICO (Information Commissioner's Office)</span>
+                  <span className="text-lg text-gray-700 pt-1">Lodge a complaint with the ICO (Information Commissioner&apos;s Office)</span>
                 </li>
               </ul>
             </div>

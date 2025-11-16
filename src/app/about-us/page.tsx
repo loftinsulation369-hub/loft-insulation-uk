@@ -120,7 +120,7 @@ export default function AboutUsPage() {
                 </p>
                 <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-6 border-l-4 border-primary-blue">
                   <p className="text-lg text-gray-800 leading-relaxed">
-                    Whether you're a <span className="font-semibold text-primary-blue">homeowner</span>, <span className="font-semibold text-primary-blue">landlord</span>, or <span className="font-semibold text-primary-blue">property developer</span>, Loft Insulation Services UK
+                    Whether you&apos;re a <span className="font-semibold text-primary-blue">homeowner</span>, <span className="font-semibold text-primary-blue">landlord</span>, or <span className="font-semibold text-primary-blue">property developer</span>, Loft Insulation Services UK
                     provides tailored insulation solutions designed to meet your needs and budget.
                   </p>
                 </div>
@@ -163,7 +163,7 @@ export default function AboutUsPage() {
                     <h2 className="text-3xl md:text-4xl font-bold">Our Vision</h2>
                   </div>
                   <p className="text-lg md:text-xl leading-relaxed opacity-95">
-                    To be the UK's most trusted name in home insulation by promoting energy efficiency and
+                    To be the UK&apos;s most trusted name in home insulation by promoting energy efficiency and
                     environmental responsibility.
                   </p>
                 </div>
@@ -211,7 +211,7 @@ export default function AboutUsPage() {
               
               <div className="relative z-10 text-center">
                 <h3 className="text-3xl md:text-4xl font-bold mb-6">
-                  Ready to Improve Your Home's Energy Efficiency?
+                  Ready to Improve Your Home&apos;s Energy Efficiency?
                 </h3>
                 <p className="text-xl md:text-2xl mb-10 opacity-95">
                   Get in touch with our team today for a free consultation and quote.

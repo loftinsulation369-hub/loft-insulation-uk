@@ -131,7 +131,7 @@ export default function WhyChooseUsPage() {
               solutions that improve comfort, energy efficiency, and sustainability in homes across the UK.
             </p>
             <p className="text-lg sm:text-xl text-white/90 leading-relaxed drop-shadow-md">
-              Whether you're upgrading an existing property or insulating a new build, we're the trusted
+              Whether you&apos;re upgrading an existing property or insulating a new build, we&apos;re the trusted
               experts you can rely on.
             </p>
           </div>
@@ -143,7 +143,7 @@ export default function WhyChooseUsPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-              Here's why homeowners choose us:
+              Here&apos;s why homeowners choose us:
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-primary-blue to-secondary-blue mx-auto rounded-full"></div>
           </div>
@@ -187,7 +187,7 @@ export default function WhyChooseUsPage() {
                 Let us help you save money, stay warm, and go green — all at once.
               </h3>
               <p className="text-xl md:text-2xl mb-10 opacity-95">
-                Ready to improve your home's energy efficiency? Get in touch with our team today.
+                Ready to improve your home&apos;s energy efficiency? Get in touch with our team today.
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Link
