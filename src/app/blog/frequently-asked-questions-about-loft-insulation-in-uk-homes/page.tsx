@@ -40,7 +40,7 @@ export default function LoftInsulationFAQPage() {
 
 <p><strong>Common questions:</strong> Topics frequently covered include whether insulation is strictly worth the investment, viable options for DIY installation, the expected longevity of different products, and managing condensation risk. It also addresses the specific regulatory requirements necessary when converting a loft into a habitable space.</p>
 
-<p>While general advice is useful, professional answers emphasise the value of professional surveys for site-specific recommendations. Every home is different, and a tailored approach ensures that the chosen solution fits the building's unique thermal profile.</p>
+<p>While general advice is useful, professional answers emphasise the value of professional surveys for site-specific recommendations. Every home is different, and a tailored approach ensures that the chosen solution fits the building&apos;s unique thermal profile.</p>
 
 <p><strong>Practical guidance:</strong> To ensure the system works as intended, regular inspections, correct specification, and maintaining adequate ventilation are crucial to reduce risk and prolong performance. Neglecting ventilation, in particular, is a common cause of moisture issues in newly insulated lofts.</p>
 

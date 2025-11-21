@@ -29,7 +29,7 @@ export default function EcoFriendlyLoftInsulationPage() {
             Eco-Friendly Loft Insulation Options for UK Homes
           </h1>
           <p className="text-lg md:text-xl opacity-90">
-            Explore sustainable loft insulation options — sheep's wool, recycled fibres, hemp and low-embodied carbon choices suitable for UK homes.
+            Explore sustainable loft insulation options — sheep&apos;s wool, recycled fibres, hemp and low-embodied carbon choices suitable for UK homes.
           </p>
         </div>
       </section>
