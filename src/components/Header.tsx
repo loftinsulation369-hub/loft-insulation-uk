@@ -30,34 +30,34 @@ const Header = () => {
   }, []);
 
   const services = [
-    { name: 'Loft Insulation Installation', href: '/#loft-insulation-installation', icon: 'Home' },
-    { name: 'Loft Clearance & Preparation', href: '/#loft-clearance-preparation', icon: 'Wrench' },
-    { name: 'Loft Boarding & Storage', href: '/#loft-boarding-storage', icon: 'Package' },
-    { name: 'Roof / Rafter Insulation', href: '/#roof-rafter-insulation', icon: 'Square' },
-    { name: 'Cavity Wall & Floor Insulation', href: '/#cavity-wall-floor-insulation', icon: 'Layers' },
-    { name: 'Insulation Removal & Replacement', href: '/#insulation-removal-replacement', icon: 'Wrench' },
+    { name: 'Loft Insulation Installation', href: '/services/loft-insulation-installation', icon: 'Home' },
+    { name: 'Loft Clearance & Preparation', href: '/services/loft-clearance-preparation', icon: 'Wrench' },
+    { name: 'Loft Boarding & Storage', href: '/services/loft-boarding-storage', icon: 'Package' },
+    { name: 'Roof / Rafter Insulation', href: '/services/roof-rafter-insulation', icon: 'Square' },
+    { name: 'Cavity Wall & Floor Insulation', href: '/services/cavity-wall-floor-insulation', icon: 'Layers' },
+    { name: 'Insulation Removal & Replacement', href: '/services/insulation-removal-replacement', icon: 'Wrench' },
   ];
 
   const sectors = [
-    { name: 'Residential Homes', href: '/#residential-homes', icon: 'Home' },
-    { name: 'Commercial & Industrial Buildings', href: '/#commercial-industrial', icon: 'Building' },
-    { name: 'Housing Associations / Builders', href: '/#housing-associations', icon: 'Users' },
-    { name: 'Landlords / Property Managers', href: '/#landlords-property-managers', icon: 'Key' },
-    { name: 'Public Sector', href: '/#public-sector', icon: 'Shield' },
-    { name: 'Countries / Locations', href: '/#countries-locations', icon: 'MapPin' },
+    { name: 'Residential Homes', href: '/sectors/residential-homes', icon: 'Home' },
+    { name: 'Commercial & Industrial Buildings', href: '/sectors/commercial-industrial', icon: 'Building' },
+    { name: 'Housing Associations / Builders', href: '/sectors/housing-associations', icon: 'Users' },
+    { name: 'Landlords / Property Managers', href: '/sectors/landlords-property-managers', icon: 'Key' },
+    { name: 'Public Sector', href: '/sectors/public-sector', icon: 'Shield' },
+    { name: 'Countries / Locations', href: '/sectors/countries-locations', icon: 'MapPin' },
   ];
 
   const insulationTypes = [
-    { name: 'Batts & Rolls', href: '/#batts-rolls', icon: 'Layers' },
-    { name: 'Loose-Fill Insulation', href: '/#loose-fill', icon: 'Wind' },
-    { name: 'Spray Foam Insulation', href: '/#spray-foam', icon: 'Droplets' },
-    { name: 'Rigid Foam Board', href: '/#rigid-foam-board', icon: 'Square' },
-    { name: 'Radiant Barrier', href: '/#radiant-barrier', icon: 'Sun' },
-    { name: 'Multifoil', href: '/#multifoil', icon: 'Layers' },
-    { name: 'Natural Materials', href: '/#natural-materials', icon: 'Leaf' },
-    { name: 'Foam-in-Place Injection', href: '/#foam-in-place', icon: 'Syringe' },
-    { name: 'Insulating Concrete Forms', href: '/#insulating-concrete-forms', icon: 'Box' },
-    { name: 'Structural Insulated Panels', href: '/#structural-insulated-panels', icon: 'Package' },
+    { name: 'Batts & Rolls', href: '/insulation/batts-rolls', icon: 'Layers' },
+    { name: 'Loose-Fill Insulation', href: '/insulation/loose-fill', icon: 'Wind' },
+    { name: 'Spray Foam Insulation', href: '/insulation/spray-foam', icon: 'Droplets' },
+    { name: 'Rigid Foam Board', href: '/insulation/rigid-foam-board', icon: 'Square' },
+    { name: 'Radiant Barrier', href: '/insulation/radiant-barrier', icon: 'Sun' },
+    { name: 'Multifoil', href: '/insulation/multifoil', icon: 'Layers' },
+    { name: 'Natural Materials', href: '/insulation/natural-materials', icon: 'Leaf' },
+    { name: 'Foam-in-Place Injection', href: '/insulation/foam-in-place', icon: 'Syringe' },
+    { name: 'Insulating Concrete Forms', href: '/insulation/insulating-concrete-forms', icon: 'Box' },
+    { name: 'Structural Insulated Panels', href: '/insulation/structural-insulated-panels', icon: 'Package' },
   ];
 
   const navigation = [

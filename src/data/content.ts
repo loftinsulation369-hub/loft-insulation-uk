@@ -218,23 +218,104 @@ export const blogPosts: BlogPost[] = [
     href: '/blog/free-loft-insulation-london',
     image: '/images/blog/free-loft-insulation-london.jpg'
   },
+  // {
+  //   id: '2',
+  //   title: 'Loft Insulation Types Guide – Choose the Best Option for Your Home',
+  //   excerpt: 'Explore different types of loft insulation materials. Compare their benefits, costs, and suitability for your home.',
+  //   date: '2024-01-18',
+  //   author: 'LIS UK',
+  //   href: '/blog/loft-insulation-types-guide',
+  //   image: '/images/blog/loft-insulation-types-guide.jpg'
+  // },
+  // {
+  //   id: '3',
+  //   title: 'Loft Insulation Energy Savings – How Much Can You Save?',
+  //   excerpt: 'Learn how loft insulation can reduce your energy bills. Understand the potential savings and benefits of proper insulation.',
+  //   date: '2024-01-16',
+  //   author: 'LIS UK',
+  //   href: '/blog/loft-insulation-energy-savings',
+  //   image: '/images/blog/loft-insulation-energy-savings.jpg'
+  // },
   {
-    id: '2',
-    title: 'Loft Insulation Types Guide – Choose the Best Option for Your Home',
-    excerpt: 'Explore different types of loft insulation materials. Compare their benefits, costs, and suitability for your home.',
-    date: '2024-01-18',
+    id: '4',
+    title: 'How to Choose the Best Loft Insulation for Your UK Home',
+    excerpt: 'Practical guidance on comparing loft insulation materials, meeting UK standards, and planning a compliant installation.',
+    date: '2025-02-01',
     author: 'LIS UK',
-    href: '/blog/loft-insulation-types-guide',
-    image: '/images/blog/loft-insulation-types-guide.jpg'
+    href: '/blog/how-to-choose-the-best-loft-insulation-for-your-uk-home',
+    image: '/images/blog/how-to-choose-the-best-loft-insulation.jpg'
   },
   {
-    id: '3',
-    title: 'Loft Insulation Energy Savings – How Much Can You Save?',
-    excerpt: 'Learn how loft insulation can reduce your energy bills. Understand the potential savings and benefits of proper insulation.',
-    date: '2024-01-16',
+    id: '5',
+    title: 'Top Cost Savings with Loft Insulation in the UK',
+    excerpt: 'Breakdown of real-world heating bill reductions, ROI timelines, and payback periods when insulating UK homes.',
+    date: '2025-02-05',
     author: 'LIS UK',
-    href: '/blog/loft-insulation-energy-savings',
-    image: '/images/blog/loft-insulation-energy-savings.jpg'
+    href: '/blog/top-cost-savings-with-loft-insulation-in-the-uk',
+    image: '/images/blog/top-cost-savings-loft-insulation.jpg'
+  },
+  {
+    id: '6',
+    title: 'Key Building Regulations for Loft Insulation & Loft Conversions in England',
+    excerpt: 'Compliance checklist for English loft insulation projects, including Part L requirements and loft conversion considerations.',
+    date: '2025-02-08',
+    author: 'LIS UK',
+    href: '/blog/key-building-regulations-for-loft-insulation-and-loft-conversions-in-england',
+    image: '/images/blog/loft-insulation-building-regulations.jpg'
+  },
+  {
+    id: '7',
+    title: 'Eco-Friendly Loft Insulation Options for UK Homes',
+    excerpt: 'Sustainable insulation choices including sheep’s wool, recycled fibres, hemp and other low embodied-carbon materials for UK properties.',
+    date: '2025-02-12',
+    author: 'LIS UK',
+    href: '/blog/eco-friendly-loft-insulation-options-for-uk-homes',
+    image: '/images/blog/eco-friendly-loft-insulation.jpg'
+  },
+  {
+    id: '8',
+    title: 'How Thick Should Your Loft Insulation Be? UK Guide',
+    excerpt: 'Step-by-step advice on recommended insulation depths, thermal targets and upgrade planning for UK lofts.',
+    date: '2025-02-15',
+    author: 'LIS UK',
+    href: '/blog/how-thick-should-your-loft-insulation-be-uk-guide',
+    image: '/images/blog/loft-insulation-thickness.jpg'
+  },
+  {
+    id: '9',
+    title: 'What Are the Best Times of Year to Install Loft Insulation in the UK?',
+    excerpt: 'Seasonal planning advice that helps homeowners and professionals choose the optimal installation window.',
+    date: '2025-02-18',
+    author: 'LIS UK',
+    href: '/blog/what-are-the-best-times-of-year-to-install-loft-insulation-in-the-uk',
+    image: '/images/blog/best-time-loft-insulation.jpg'
+  },
+  {
+    id: '10',
+    title: 'Signs Your Loft Needs Insulation or an Insulation Upgrade',
+    excerpt: 'Professional checklist covering comfort complaints, heat loss indicators and moisture warnings that signal it’s time to insulate.',
+    date: '2025-02-21',
+    author: 'LIS UK',
+    href: '/blog/signs-your-loft-needs-insulation-or-an-insulation-upgrade',
+    image: '/images/blog/loft-insulation-upgrade-signs.jpg'
+  },
+  {
+    id: '11',
+    title: 'Frequently Asked Questions About Loft Insulation in UK Homes',
+    excerpt: 'Clear answers to the most common loft insulation queries covering installation, maintenance and performance expectations.',
+    date: '2025-02-24',
+    author: 'LIS UK',
+    href: '/blog/frequently-asked-questions-about-loft-insulation-in-uk-homes',
+    image: '/images/blog/loft-insulation-faq.jpg'
+  },
+  {
+    id: '12',
+    title: 'What Are the Grants & Government Schemes for Loft Insulation in the UK?',
+    excerpt: 'Overview of current UK funding routes, eligibility checks and application tips for loft insulation projects.',
+    date: '2025-02-27',
+    author: 'LIS UK',
+    href: '/blog/what-are-the-grants-and-government-schemes-for-loft-insulation-in-the-uk',
+    image: '/images/blog/loft-insulation-grants.jpg'
   }
 ];
 

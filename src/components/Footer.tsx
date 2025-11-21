@@ -7,10 +7,7 @@ const Footer = () => {
     { name: 'Home', href: '/' },
     { name: 'About Us', href: '/about-us' },
     { name: 'Why Choose Us', href: '/why-choose-us' },
-    { name: 'Services', href: '/services' },
-    { name: 'Sectors', href: '/sectors' },
-    { name: 'Insulation Types', href: '/insulation' },
-    { name: 'Blog', href: '/blog' },
+    { name: 'Blogs', href: '/blog' },
     { name: 'Contact', href: '/contact-us' },
   ];
 
@@ -264,7 +261,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-400 text-sm">
-              © 2024 Loft Insulation Services. All rights reserved.
+              © 2025 Loft Insulation Services. All rights reserved.
             </div>
             <div className="flex space-x-6">
               {policies.map((policy) => (
