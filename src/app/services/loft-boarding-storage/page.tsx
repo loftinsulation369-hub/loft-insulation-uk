@@ -81,7 +81,7 @@ export default function LoftBoardingStoragePage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">Our Loft Boarding & Storage Service Overview</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                We deliver a full-service loft boarding and storage conversion — from assessment to boarding, finishing, and optional extras such as lighting, storage organisation, or combined insulation. Our process is professional, safe, and tailored to your home's structure.
+                We deliver a full-service loft boarding and storage conversion — from assessment to boarding, finishing, and optional extras such as lighting, storage organisation, or combined insulation. Our process is professional, safe, and tailored to your home&apos;s structure.
               </p>
 
               {/* Thorough Assessment */}
@@ -419,7 +419,7 @@ export default function LoftBoardingStoragePage() {
                 <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-6 border-l-4 border-primary-blue hover:shadow-lg transition-shadow duration-300">
                   <h3 className="text-xl font-bold text-gray-900 mb-3 flex items-start">
                     <span className="text-primary-blue mr-3 mt-1">3.</span>
-                    <span>Will boarding affect my home's heating and insulation?</span>
+                    <span>Will boarding affect my home&apos;s heating and insulation?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
                     Not if done properly. We ensure existing insulation remains intact and correctly positioned. If insulation is lacking, we can combine boarding with insulation upgrade, preserving or improving thermal efficiency.

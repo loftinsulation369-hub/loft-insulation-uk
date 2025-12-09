@@ -241,7 +241,7 @@ export default function FoamInPlacePage() {
                 </div>
                 <div className="flex items-start">
                   <AlertTriangle className="h-5 w-5 text-orange-600 mr-3 mt-1 flex-shrink-0" />
-                  <p className="text-gray-700"><strong className="text-gray-900">Not always ideal for older buildings needing breathability:</strong> In older or heritage buildings where breathability and natural ventilation are important, foam's airtightness can conflict with requirements for vapour diffusion and moisture regulation.</p>
+                  <p className="text-gray-700"><strong className="text-gray-900">Not always ideal for older buildings needing breathability:</strong> In older or heritage buildings where breathability and natural ventilation are important, foam&apos;s airtightness can conflict with requirements for vapour diffusion and moisture regulation.</p>
                 </div>
               </div>
               <p className="text-lg text-gray-700 leading-relaxed mt-6">
@@ -317,7 +317,7 @@ export default function FoamInPlacePage() {
                     <span>Are there any risks or drawbacks I should know about?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Yes — if ventilation is inadequate or moisture is trapped, foam can worsen damp or cause timber rot. It's more expensive, hard to remove or modify later, and improper installation can cause issues in loft inspection, roof maintenance, or property resale.
+                    Yes — if ventilation is inadequate or moisture is trapped, foam can worsen damp or cause timber rot. It&apos;s more expensive, hard to remove or modify later, and improper installation can cause issues in loft inspection, roof maintenance, or property resale.
                   </p>
                 </div>
 
@@ -337,7 +337,7 @@ export default function FoamInPlacePage() {
                     <span>How do I ensure safe and effective foam‑in‑place insulation installation?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Use a certified, experienced installer; ensure loft/roof ventilation is reviewed and maintained; document the work (type of foam, coverage, ventilation paths); and include ventilation and moisture‑control measures. Also, plan for future access and maintenance, given foam's permanence.
+                    Use a certified, experienced installer; ensure loft/roof ventilation is reviewed and maintained; document the work (type of foam, coverage, ventilation paths); and include ventilation and moisture‑control measures. Also, plan for future access and maintenance, given foam&apos;s permanence.
                   </p>
                 </div>
               </div>

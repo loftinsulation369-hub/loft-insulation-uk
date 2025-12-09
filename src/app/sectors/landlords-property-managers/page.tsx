@@ -37,7 +37,7 @@ export default function LandlordsPropertyManagersPage() {
             {/* Introduction */}
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                For landlords and property managers, maintaining safe, energy-efficient, compliant properties is essential. At Loft Insulation Services UK, we specialise in delivering turnkey insulation, loft, and energy-efficiency services suited for rental homes, managed flats, multi-unit buildings, and portfolios of properties. Our solutions help reduce running costs, improve tenant comfort, minimise maintenance issues, and enhance property value — all while ensuring compliance with regulations and strengthening your investment's long-term performance.
+                For landlords and property managers, maintaining safe, energy-efficient, compliant properties is essential. At Loft Insulation Services UK, we specialise in delivering turnkey insulation, loft, and energy-efficiency services suited for rental homes, managed flats, multi-unit buildings, and portfolios of properties. Our solutions help reduce running costs, improve tenant comfort, minimise maintenance issues, and enhance property value — all while ensuring compliance with regulations and strengthening your investment&apos;s long-term performance.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
                 Whether you manage a single rental unit or a wide portfolio of properties, our flexible services are designed with landlords and property managers in mind.
@@ -439,7 +439,7 @@ export default function LandlordsPropertyManagersPage() {
                     <span>Do you handle multiple properties in a portfolio?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Yes. Whether it's a handful of homes or dozens of units, we offer bulk surveying, scheduled works, and coordinated project management — simplifying upkeep across your portfolio.
+                    Yes. Whether it&apos;s a handful of homes or dozens of units, we offer bulk surveying, scheduled works, and coordinated project management — simplifying upkeep across your portfolio.
                   </p>
                 </div>
 

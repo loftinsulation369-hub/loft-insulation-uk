@@ -45,7 +45,7 @@ export default function NaturalMaterialsPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Why Choose Natural Insulation Materials</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                Natural insulation stands out because of a number of unique benefits that synthetic alternatives don't always offer. Here's what makes natural materials special:
+                Natural insulation stands out because of a number of unique benefits that synthetic alternatives don&apos;t always offer. Here&apos;s what makes natural materials special:
               </p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div className="bg-gradient-to-br from-blue-50 to-cyan-50 rounded-xl p-6 border-l-4 border-primary-blue hover:shadow-lg transition-shadow duration-300">
@@ -109,7 +109,7 @@ export default function NaturalMaterialsPage() {
                 </div>
               </div>
               <p className="text-lg text-gray-700 leading-relaxed mt-8">
-                Common natural insulation materials include sheep's wool, wood fibre, hemp, cellulose (recycled fibre), flax and other plant‑ or animal‑based insulators — each with their own strengths and suitable applications depending on property needs and local climate.
+                Common natural insulation materials include sheep&apos;s wool, wood fibre, hemp, cellulose (recycled fibre), flax and other plant‑ or animal‑based insulators — each with their own strengths and suitable applications depending on property needs and local climate.
               </p>
             </div>
 
@@ -155,7 +155,7 @@ export default function NaturalMaterialsPage() {
                   </li>
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-green-600 mr-3 mt-1 flex-shrink-0" />
-                    <span>Check that ventilation, loft vents, air‑flow paths are functioning properly — as many natural materials perform best when they can "breathe."</span>
+                    <span>Check that ventilation, loft vents, air‑flow paths are functioning properly — as many natural materials perform best when they can &quot;breathe.&quot;</span>
                   </li>
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-green-600 mr-3 mt-1 flex-shrink-0" />
@@ -233,7 +233,7 @@ export default function NaturalMaterialsPage() {
               
               <div className="space-y-6">
                 <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-6 border-l-4 border-primary-blue">
-                  <h3 className="text-2xl font-bold text-gray-900 mb-4">Sheep's Wool</h3>
+                  <h3 className="text-2xl font-bold text-gray-900 mb-4">Sheep&apos;s Wool</h3>
                   <ul className="space-y-2 text-gray-700">
                     <li className="flex items-start">
                       <CheckCircle className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
@@ -406,7 +406,7 @@ export default function NaturalMaterialsPage() {
                     <span>What kinds of natural insulation materials are available?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Most common natural insulation materials include sheep's wool, wood fibre, hemp or plant‑based fibre panels/rolls, recycled cellulose or textile‑based insulation, and other natural‑fibre based options — suitable for roofs, lofts, walls, floors and ceilings.
+                    Most common natural insulation materials include sheep&apos;s wool, wood fibre, hemp or plant‑based fibre panels/rolls, recycled cellulose or textile‑based insulation, and other natural‑fibre based options — suitable for roofs, lofts, walls, floors and ceilings.
                   </p>
                 </div>
 

@@ -120,7 +120,7 @@ export default function MultifoilPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">Our Multifoil Insulation Service</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                We offer a full-service solution for multifoil insulation — from survey and planning to installation, finishing, and advice. Here's what you'll get when you choose us:
+                We offer a full-service solution for multifoil insulation — from survey and planning to installation, finishing, and advice. Here&apos;s what you&apos;ll get when you choose us:
               </p>
 
               {/* Step 1: Initial Survey */}
@@ -136,7 +136,7 @@ export default function MultifoilPage() {
                   </li>
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
-                    <span>Check the building's moisture/condensation history, ventilation, and structural requirements to determine whether multifoil alone or combined with other insulation is most suitable.</span>
+                    <span>Check the building&apos;s moisture/condensation history, ventilation, and structural requirements to determine whether multifoil alone or combined with other insulation is most suitable.</span>
                   </li>
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
@@ -283,7 +283,7 @@ export default function MultifoilPage() {
                   </div>
                   <div className="flex items-start">
                     <AlertTriangle className="h-5 w-5 text-orange-600 mr-3 mt-1 flex-shrink-0" />
-                    <span className="text-gray-700">Roof or room ventilation is poor — multifoil's performance depends on correct air‑gaps and ventilation.</span>
+                    <span className="text-gray-700">Roof or room ventilation is poor — multifoil&apos;s performance depends on correct air‑gaps and ventilation.</span>
                   </div>
                 </div>
               </div>
@@ -348,7 +348,7 @@ export default function MultifoilPage() {
                     <span>Can multifoil insulation be installed in a regular loft under rafters or along floorboards?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Yes. Multifoil is flexible and can be fitted between rafters, along walls, or under roof sheathing. It's especially suited for lofts or attic spaces with awkward shapes, limited height, or obstructions like beams, pipes or cables.
+                    Yes. Multifoil is flexible and can be fitted between rafters, along walls, or under roof sheathing. It&apos;s especially suited for lofts or attic spaces with awkward shapes, limited height, or obstructions like beams, pipes or cables.
                   </p>
                 </div>
 

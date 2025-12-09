@@ -40,7 +40,7 @@ export default function ResidentialHomesPage() {
                 Whether you own a family home, a semi-detached house, a bungalow, or a larger property, maintaining comfort, energy efficiency, and safety should be a top priority. At Loft Insulation Services UK, our Residential Homes sector is dedicated to serving homeowners and landlords with a complete suite of insulation, loft-boarding, clearance, and roof services — designed to meet the unique needs of residential properties across the UK.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                We understand that no two homes are identical. That's why our solutions are bespoke: we evaluate each home's structure, age, layout and heating requirements to recommend the most effective combination of insulation, ventilation, and loft conversion services.
+                We understand that no two homes are identical. That&apos;s why our solutions are bespoke: we evaluate each home&apos;s structure, age, layout and heating requirements to recommend the most effective combination of insulation, ventilation, and loft conversion services.
               </p>
             </div>
 
@@ -77,7 +77,7 @@ export default function ResidentialHomesPage() {
                 </div>
               </div>
               <p className="text-lg text-gray-700 leading-relaxed mt-6">
-                We offer specialist solutions whether you're updating an older home, renovating, or simply want to increase efficiency and comfort without major structural changes.
+                We offer specialist solutions whether you&apos;re updating an older home, renovating, or simply want to increase efficiency and comfort without major structural changes.
               </p>
             </div>
 
@@ -85,7 +85,7 @@ export default function ResidentialHomesPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">Our Residential Services Overview</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                Within the Residential Homes sector, we provide a wide range of services tailored to meet homeowners' needs — all under one roof.
+                Within the Residential Homes sector, we provide a wide range of services tailored to meet homeowners needs — all under one roof.
               </p>
 
               {/* Loft Insulation & Roof Services */}
@@ -195,7 +195,7 @@ export default function ResidentialHomesPage() {
               </div>
 
               <p className="text-lg text-gray-700 leading-relaxed mt-8">
-                Each of these services can be delivered singly — or combined into a comprehensive renovation package tailored to your home's needs and your energy-efficiency goals.
+                Each of these services can be delivered singly — or combined into a comprehensive renovation package tailored to your home&apos;s needs and your energy-efficiency goals.
               </p>
             </div>
 
@@ -248,7 +248,7 @@ export default function ResidentialHomesPage() {
                     </div>
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Detailed Home Survey & Assessment</h3>
-                      <p className="text-gray-700">Every project begins with a thorough inspection of your home — from loft structure to wall types, existing insulation, ventilation, and heating system. This helps us tailor our recommendations to your home's specific needs.</p>
+                      <p className="text-gray-700">Every project begins with a thorough inspection of your home — from loft structure to wall types, existing insulation, ventilation, and heating system. This helps us tailor our recommendations to your home&apos;s specific needs.</p>
                     </div>
                   </div>
                 </div>
@@ -333,7 +333,7 @@ export default function ResidentialHomesPage() {
                 </div>
               </div>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Whether you live in a Victorian-era semi-detached house, post-war bungalow, modern build, or converted loft apartment — our services can be tailored to match your home's design and requirements.
+                Whether you live in a Victorian-era semi-detached house, post-war bungalow, modern build, or converted loft apartment — our services can be tailored to match your home&apos;s design and requirements.
               </p>
             </div>
 
@@ -348,7 +348,7 @@ export default function ResidentialHomesPage() {
                 <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-6 border-l-4 border-primary-blue hover:shadow-lg transition-shadow duration-300">
                   <h3 className="text-xl font-bold text-gray-900 mb-3 flex items-start">
                     <span className="text-primary-blue mr-3 mt-1">1.</span>
-                    <span>How quickly can you upgrade a home's insulation and loft services?</span>
+                    <span>How quickly can you upgrade a home&apos;s insulation and loft services?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
                     Depending on the type and scale of work, most standard upgrades (insulation, loft boarding, basic clear-out) can be completed within one to two days. More extensive work — such as full insulation, loft conversion readiness or multiple service combination — may take several days.
@@ -361,7 +361,7 @@ export default function ResidentialHomesPage() {
                     <span>Do you handle both small homes and large properties?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Yes. We work with all types of residential properties — from small cottages and terraced houses to large detached homes and bungalows. Our solutions are scaled to suit your home's size and structure.
+                    Yes. We work with all types of residential properties — from small cottages and terraced houses to large detached homes and bungalows. Our solutions are scaled to suit your home&apos;s size and structure.
                   </p>
                 </div>
 
@@ -406,7 +406,7 @@ export default function ResidentialHomesPage() {
               
               <div className="relative z-10 text-center">
                 <h3 className="text-3xl md:text-4xl font-bold mb-6">
-                  Ready to Improve Your Home's Energy Efficiency?
+                  Ready to Improve Your Home&apos;s Energy Efficiency?
                 </h3>
                 <p className="text-xl md:text-2xl mb-4 opacity-95">
                   Get a free, no-obligation quote for professional residential insulation and loft services today.

@@ -37,7 +37,7 @@ export default function CavityWallFloorInsulationPage() {
             {/* Introduction */}
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                We offer a comprehensive package for cavity wall and floor insulation — from assessment to installation, finishing, and after-care. Our goal is to deliver effective, safe, and long-lasting insulation tailored to your home's structure.
+                We offer a comprehensive package for cavity wall and floor insulation — from assessment to installation, finishing, and after-care. Our goal is to deliver effective, safe, and long-lasting insulation tailored to your home&apos;s structure.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
                 Improve heat retention, reduce your energy bills, and create a warmer, more efficient home with our expert cavity wall and floor insulation services. Whether you are a homeowner, landlord, or property developer, high-quality insulation is one of the most effective upgrades you can make to any property.
@@ -372,7 +372,7 @@ export default function CavityWallFloorInsulationPage() {
                     <TrendingDown className="h-6 w-6 text-indigo-600 mr-3 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Clear Pricing & No Hidden Charges</h3>
-                      <p className="text-gray-700">Transparent quotes with no surprises — you know exactly what you're paying for.</p>
+                      <p className="text-gray-700">Transparent quotes with no surprises — you know exactly what you&apos;re paying for.</p>
                     </div>
                   </div>
                 </div>
@@ -596,7 +596,7 @@ export default function CavityWallFloorInsulationPage() {
               
               <div className="relative z-10 text-center">
                 <h3 className="text-3xl md:text-4xl font-bold mb-6">
-                  Ready to Improve Your Home's Insulation?
+                  Ready to Improve Your Home&apos;s Insulation?
                 </h3>
                 <p className="text-xl md:text-2xl mb-4 opacity-95">
                   Get a free, no-obligation quote for professional cavity wall and floor insulation services today.

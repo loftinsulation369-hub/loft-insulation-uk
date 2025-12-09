@@ -40,7 +40,7 @@ export default function RigidFoamBoardPage() {
                 Rigid foam board insulation is a premium, high‑performance solution for lofts, roofs, walls, and floors where space is limited, maximum thermal resistance is required, or structural strength matters. At Loft Insulation Services UK, our rigid foam board insulation service delivers expert installation, long-lasting performance, and energy savings — ideal for loft conversions, flat roofs, extensions, or homes needing optimal thermal efficiency.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Whether you're planning a loft conversion, upgrading insulation in a modern build, renovating a roof or wall, or simply aiming for long-term energy savings — rigid foam board can provide a solid, stable, and efficient insulation solution that meets high standards and delivers comfort year-round.
+                Whether you&apos;re planning a loft conversion, upgrading insulation in a modern build, renovating a roof or wall, or simply aiming for long-term energy savings — rigid foam board can provide a solid, stable, and efficient insulation solution that meets high standards and delivers comfort year-round.
               </p>
             </div>
 
@@ -48,7 +48,7 @@ export default function RigidFoamBoardPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Why Choose Rigid Foam Board Insulation</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                Rigid foam board insulation stands out because of its unique combination of thermal performance, structural strength, and versatility. Here's what makes it a top choice for many projects:
+                Rigid foam board insulation stands out because of its unique combination of thermal performance, structural strength, and versatility. Here&apos;s what makes it a top choice for many projects:
               </p>
               <p className="text-lg text-gray-700 leading-relaxed mb-6 font-semibold">Key advantages of rigid foam boards:</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -87,7 +87,7 @@ export default function RigidFoamBoardPage() {
                     <Lock className="h-6 w-6 text-orange-600 mr-3 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Consistent performance over time</h3>
-                      <p className="text-gray-700">Foam boards don't settle, compress, or degrade easily — they maintain their insulation value for decades if installed correctly.</p>
+                      <p className="text-gray-700">Foam boards don&apos;t settle, compress, or degrade easily — they maintain their insulation value for decades if installed correctly.</p>
                     </div>
                   </div>
                 </div>
@@ -130,7 +130,7 @@ export default function RigidFoamBoardPage() {
                 <ul className="space-y-2 text-gray-700 ml-9">
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
-                    <span>Examine the building's structure — roof pitch, wall construction, floor type (suspended or concrete), existing insulation, moisture risk, ventilation, and load-bearing requirements.</span>
+                    <span>Examine the building&apos;s structure — roof pitch, wall construction, floor type (suspended or concrete), existing insulation, moisture risk, ventilation, and load-bearing requirements.</span>
                   </li>
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
@@ -225,7 +225,7 @@ export default function RigidFoamBoardPage() {
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-900">Types of Rigid Foam Boards We Use</h2>
               </div>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                We tailor board selection to your building's needs, balancing performance, cost, and application. Common options include:
+                We tailor board selection to your building&apos;s needs, balancing performance, cost, and application. Common options include:
               </p>
               <div className="space-y-4 mb-6">
                 <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-6 border-l-4 border-primary-blue">

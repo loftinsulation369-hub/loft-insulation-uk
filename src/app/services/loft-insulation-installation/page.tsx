@@ -37,10 +37,10 @@ export default function LoftInsulationInstallationPage() {
             {/* Introduction */}
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                Loft insulation is one of the most effective ways to improve your home's energy efficiency, reduce heat loss, and save money on energy bills. At Loft Insulation Services UK, we specialise in professional, high-quality loft insulation installation designed to keep your home warmer, more comfortable, and more energy-efficient all year round.
+                Loft insulation is one of the most effective ways to improve your home&apos;s energy efficiency, reduce heat loss, and save money on energy bills. At Loft Insulation Services UK, we specialise in professional, high-quality loft insulation installation designed to keep your home warmer, more comfortable, and more energy-efficient all year round.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Whether you live in a detached house, semi-detached property, bungalow, or converted loft space, our expert installers provide tailored solutions to suit your home's structure and energy performance needs. This comprehensive guide explains the benefits, installation process, materials, costs, and why we are the UK's trusted specialists for loft insulation.
+                Whether you live in a detached house, semi-detached property, bungalow, or converted loft space, our expert installers provide tailored solutions to suit your home&apos;s structure and energy performance needs. This comprehensive guide explains the benefits, installation process, materials, costs, and why we are the UK&apos;s trusted specialists for loft insulation.
               </p>
             </div>
 
@@ -48,7 +48,7 @@ export default function LoftInsulationInstallationPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Why Loft Insulation Matters</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                Heat naturally rises — and without insulation, up to 25–30% of your home's heat escapes through an uninsulated loft. This leads to higher heating bills, colder winters, and unnecessary energy loss.
+                Heat naturally rises — and without insulation, up to 25–30% of your home&apos;s heat escapes through an uninsulated loft. This leads to higher heating bills, colder winters, and unnecessary energy loss.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
                 Loft insulation acts as a thermal barrier that traps warmth inside your home. It prevents heat from escaping through the roof while reducing the need for constant heating. As a result, your home stays warmer for longer using less energy.
@@ -113,7 +113,7 @@ export default function LoftInsulationInstallationPage() {
                     <Home className="h-6 w-6 text-primary-blue mr-4 flex-shrink-0 mt-1" />
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Improved Home Comfort</h3>
-                      <p className="text-gray-700">Insulation keeps the home warmer in winter and cooler in summer, reducing temperature fluctuations and cold spots. You'll notice fewer drafts and a more comfortable living environment throughout the year.</p>
+                      <p className="text-gray-700">Insulation keeps the home warmer in winter and cooler in summer, reducing temperature fluctuations and cold spots. You&apos;ll notice fewer drafts and a more comfortable living environment throughout the year.</p>
                     </div>
                   </div>
                 </div>
@@ -164,7 +164,7 @@ export default function LoftInsulationInstallationPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Our Loft Insulation Installation Service</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                As one of the UK's trusted specialists, we provide a complete loft insulation service from assessment to installation. Our certified team ensures your insulation is fitted safely, correctly, and in compliance with UK Building Regulations.
+                As one of the UK&apos;s trusted specialists, we provide a complete loft insulation service from assessment to installation. Our certified team ensures your insulation is fitted safely, correctly, and in compliance with UK Building Regulations.
               </p>
               
               <div className="bg-gradient-to-r from-primary-blue/10 to-secondary-blue/10 rounded-xl p-6 border-l-4 border-primary-blue">
@@ -232,7 +232,7 @@ export default function LoftInsulationInstallationPage() {
                   </div>
                 </div>
                 <p className="text-lg text-gray-700 leading-relaxed mt-6">
-                  We help you choose the most efficient and appropriate insulation based on your home's requirements.
+                  We help you choose the most efficient and appropriate insulation based on your home&apos;s requirements.
                 </p>
               </div>
             </div>
@@ -476,7 +476,7 @@ export default function LoftInsulationInstallationPage() {
                   Book Your Free Loft Insulation Survey Today
                 </h3>
                 <p className="text-xl md:text-2xl mb-4 opacity-95">
-                  If you're ready to reduce your energy bills, increase home comfort, and improve your energy efficiency, our team is here to help.
+                  If you&apos;re ready to reduce your energy bills, increase home comfort, and improve your energy efficiency, our team is here to help.
                 </p>
                 <p className="text-lg md:text-xl mb-8 opacity-90">
                   We offer free surveys, transparent quotes, and professional installation with guaranteed results.

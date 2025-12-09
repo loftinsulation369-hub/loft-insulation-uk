@@ -40,7 +40,7 @@ export default function PublicSectorPage() {
                 Public sector buildings — including schools, local authority housing, community centres, care homes, municipal offices, and social housing blocks — have unique demands when it comes to comfort, energy efficiency, maintenance, and compliance. At Loft Insulation Services UK, we understand these demands. Our Public Sector services are designed to help institutions reduce energy costs, improve occupant comfort, meet regulatory standards, and maintain building integrity — with minimal disruption and full compliance.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Whether it's upgrading insulation in old buildings, insulating new builds, preparing lofts for storage or maintenance access, or improving thermal efficiency across multiple properties — our tailored solutions deliver long-term savings, improved comfort, and peace of mind for administrators, trustees, or property managers.
+                Whether it&apos;s upgrading insulation in old buildings, insulating new builds, preparing lofts for storage or maintenance access, or improving thermal efficiency across multiple properties — our tailored solutions deliver long-term savings, improved comfort, and peace of mind for administrators, trustees, or property managers.
               </p>
             </div>
 

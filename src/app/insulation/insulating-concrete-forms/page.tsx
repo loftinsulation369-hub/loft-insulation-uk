@@ -207,7 +207,7 @@ export default function InsulatingConcreteFormsPage() {
                 </div>
                 <div className="flex items-start">
                   <Building2 className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
-                  <span className="text-gray-700"><strong className="text-gray-900">Basements, ground floors, or buildings in damp zones:</strong> ICF's moisture resistance and airtightness make it ideal where damp, moisture, or ground humidity is a concern.</span>
+                  <span className="text-gray-700"><strong className="text-gray-900">Basements, ground floors, or buildings in damp zones:</strong> ICF&apos;s moisture resistance and airtightness make it ideal where damp, moisture, or ground humidity is a concern.</span>
                 </div>
                 <div className="flex items-start">
                   <Building2 className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
@@ -215,7 +215,7 @@ export default function InsulatingConcreteFormsPage() {
                 </div>
                 <div className="flex items-start">
                   <Building2 className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
-                  <span className="text-gray-700"><strong className="text-gray-900">Buildings requiring sound insulation or vibration protection:</strong> Schools, apartments, multi-unit housing, or urban homes benefit from ICF's acoustic damping.</span>
+                  <span className="text-gray-700"><strong className="text-gray-900">Buildings requiring sound insulation or vibration protection:</strong> Schools, apartments, multi-unit housing, or urban homes benefit from ICF&apos;s acoustic damping.</span>
                 </div>
                 <div className="flex items-start">
                   <Building2 className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
@@ -223,7 +223,7 @@ export default function InsulatingConcreteFormsPage() {
                 </div>
                 <div className="flex items-start">
                   <Building2 className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
-                  <span className="text-gray-700"><strong className="text-gray-900">Climate zones with high heating or cooling demand:</strong> ICF's thermal mass and continuous insulation help maintain stable indoor temperatures, reducing energy demand for heating or cooling.</span>
+                  <span className="text-gray-700"><strong className="text-gray-900">Climate zones with high heating or cooling demand:</strong> ICF&apos;s thermal mass and continuous insulation help maintain stable indoor temperatures, reducing energy demand for heating or cooling.</span>
                 </div>
               </div>
             </div>
@@ -265,7 +265,7 @@ export default function InsulatingConcreteFormsPage() {
                 </div>
                 <div className="flex items-start">
                   <CheckCircle className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
-                  <span className="text-gray-700">Environmental benefits — energy savings reduce carbon footprint over the building's life, contributing to sustainability goals.</span>
+                  <span className="text-gray-700">Environmental benefits — energy savings reduce carbon footprint over the building&apos;s life, contributing to sustainability goals.</span>
                 </div>
               </div>
             </div>
@@ -314,7 +314,7 @@ export default function InsulatingConcreteFormsPage() {
                 <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-6 border-l-4 border-primary-blue hover:shadow-lg transition-shadow duration-300">
                   <h3 className="text-xl font-bold text-gray-900 mb-3 flex items-start">
                     <span className="text-primary-blue mr-3 mt-1">1.</span>
-                    <span>What does "insulating concrete form" mean?</span>
+                    <span>What does &quot;insulating concrete form&quot; mean?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
                     Insulating Concrete Form means a construction system where interlocking insulating formwork (usually foam or similar material) is used as the permanent mould for concrete. Once concrete is poured and cured, the formwork remains as an integral insulation layer, giving you both structure and thermal insulation in one.

@@ -37,10 +37,10 @@ export default function RoofRafterInsulationPage() {
             {/* Introduction */}
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                Transforming your roof structure with professional rafter insulation can deliver significant improvements in energy efficiency, indoor comfort, and home longevity. At Loft Insulation Services UK, our Roof Rafter Insulation service is designed to protect your home from heat loss, reduce condensation risks, and ensure that your roof structure supports insulation in a safe and effective way. Whether you're converting your loft into a living space or simply safeguarding your roof against cold and damp, our rafter insulation solutions offer long-term performance and peace of mind.
+                Transforming your roof structure with professional rafter insulation can deliver significant improvements in energy efficiency, indoor comfort, and home longevity. At Loft Insulation Services UK, our Roof Rafter Insulation service is designed to protect your home from heat loss, reduce condensation risks, and ensure that your roof structure supports insulation in a safe and effective way. Whether you&apos;re converting your loft into a living space or simply safeguarding your roof against cold and damp, our rafter insulation solutions offer long-term performance and peace of mind.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Roof-rafter insulation is particularly beneficial for loft conversions, pitched roofs, or homes where standard loft-floor insulation won't give the right thermal performance. By insulating directly between or under the rafters, you create a thermal envelope that helps regulate indoor temperature, prevents heat from escaping through the roof, and reduces the burden on your heating system. Our experienced team uses modern insulation materials and installation methods that comply with UK building standards, giving you a safe, efficient and durable solution.
+                Roof-rafter insulation is particularly beneficial for loft conversions, pitched roofs, or homes where standard loft-floor insulation won&apos;t give the right thermal performance. By insulating directly between or under the rafters, you create a thermal envelope that helps regulate indoor temperature, prevents heat from escaping through the roof, and reduces the burden on your heating system. Our experienced team uses modern insulation materials and installation methods that comply with UK building standards, giving you a safe, efficient and durable solution.
               </p>
             </div>
 
@@ -48,7 +48,7 @@ export default function RoofRafterInsulationPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Why Roof Rafter Insulation Is Important</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                Standard loft-floor insulation works well when the loft is left unused — but when you want to transform the space into a habitable room or store belongings under the roof, rafter insulation becomes essential. Here's why:
+                Standard loft-floor insulation works well when the loft is left unused — but when you want to transform the space into a habitable room or store belongings under the roof, rafter insulation becomes essential. Here&apos;s why:
               </p>
               <ul className="space-y-3 text-gray-700 mb-6">
                 <li className="flex items-start">
@@ -73,7 +73,7 @@ export default function RoofRafterInsulationPage() {
                 </li>
               </ul>
               <p className="text-lg text-gray-700 leading-relaxed">
-                For homeowners looking to maximize their home's value, comfort, and energy performance, rafter insulation is often the step that makes an attic or roof-ready for conversion or long-term use.
+                For homeowners looking to maximize their home&apos;s value, comfort, and energy performance, rafter insulation is often the step that makes an attic or roof-ready for conversion or long-term use.
               </p>
             </div>
 
@@ -144,7 +144,7 @@ export default function RoofRafterInsulationPage() {
                   </li>
                 </ul>
                 <p className="text-gray-700 mt-4 ml-9">
-                  We help you choose the best material for your home's roof type, whether it's a simple pitched roof, a dormer, or a complex attic conversion.
+                  We help you choose the best material for your home&apos;s roof type, whether it&apos;s a simple pitched roof, a dormer, or a complex attic conversion.
                 </p>
               </div>
 
@@ -395,7 +395,7 @@ export default function RoofRafterInsulationPage() {
                     <span>When should I choose roof rafter insulation instead of loft floor insulation?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Choose rafter insulation if you plan to use the loft as a living area (bedroom, office, storage), want to heat the space, or if your loft floor insulation isn't sufficient for thermal comfort. It's ideal for loft conversions and inhabited attic spaces.
+                    Choose rafter insulation if you plan to use the loft as a living area (bedroom, office, storage), want to heat the space, or if your loft floor insulation isn&apos;t sufficient for thermal comfort. It&apos;s ideal for loft conversions and inhabited attic spaces.
                   </p>
                 </div>
 
@@ -425,7 +425,7 @@ export default function RoofRafterInsulationPage() {
                     <span>Does roof rafter insulation affect storage or loft use?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    It depends on how the roof space is used. Rafter insulation by itself doesn't create a floor — but once insulated, we can combine it with loft boarding or flooring if you wish to use the space for storage or as a living area.
+                    It depends on how the roof space is used. Rafter insulation by itself doesn&apos;t create a floor — but once insulated, we can combine it with loft boarding or flooring if you wish to use the space for storage or as a living area.
                   </p>
                 </div>
 
@@ -456,7 +456,7 @@ export default function RoofRafterInsulationPage() {
                   Get a free, no-obligation quote for professional roof rafter insulation services today.
                 </p>
                 <p className="text-lg md:text-xl mb-10 opacity-90">
-                  Let us help you improve your home's energy efficiency, comfort, and value with expert rafter insulation installation.
+                  Let us help you improve your home&apos;s energy efficiency, comfort, and value with expert rafter insulation installation.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Link

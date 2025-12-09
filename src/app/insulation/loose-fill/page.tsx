@@ -40,7 +40,7 @@ export default function LooseFillPage() {
                 Loose‑fill insulation is a flexible, highly effective way to insulate lofts, roofs, floors or ceilings — especially when spaces are irregular, have obstructions, or when you want to top up existing insulation. At Loft Insulation Services UK, our loose‑fill insulation service delivers expert installation, high‑quality materials, and long‑lasting thermal performance tailored to your home or building.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Whether you're insulating a new loft, upgrading old insulation, or insulating a complex attic space with joists, pipes or wiring — loose‑fill offers an efficient, adaptable solution that fills gaps and covers uneven areas thoroughly.
+                Whether you&apos;re insulating a new loft, upgrading old insulation, or insulating a complex attic space with joists, pipes or wiring — loose‑fill offers an efficient, adaptable solution that fills gaps and covers uneven areas thoroughly.
               </p>
             </div>
 
@@ -306,7 +306,7 @@ export default function LooseFillPage() {
                 </div>
                 <div className="flex items-start">
                   <CheckCircle className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
-                  <span className="text-gray-700">Improved energy efficiency and reduced heat loss, potentially improving a property's thermal performance rating.</span>
+                  <span className="text-gray-700">Improved energy efficiency and reduced heat loss, potentially improving a property&apos;s thermal performance rating.</span>
                 </div>
                 <div className="flex items-start">
                   <CheckCircle className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
@@ -340,7 +340,7 @@ export default function LooseFillPage() {
                     <span>When is loose‑fill insulation better than rolls, batts or boards?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Loose‑fill is ideal when loft spaces are irregular, have obstructions (pipes, wiring, tanks, beams), or when joist spacing is uneven — making it difficult to fit rigid insulation neatly. It's also a great solution when you want to top up existing insulation without full strip‑out.
+                    Loose‑fill is ideal when loft spaces are irregular, have obstructions (pipes, wiring, tanks, beams), or when joist spacing is uneven — making it difficult to fit rigid insulation neatly. It&apos;s also a great solution when you want to top up existing insulation without full strip‑out.
                   </p>
                 </div>
 

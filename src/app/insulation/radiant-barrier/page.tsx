@@ -40,7 +40,7 @@ export default function RadiantBarrierPage() {
                 Radiant‑barrier insulation is a reflective system designed to reduce heat transfer via radiation — a smart supplement to traditional insulation methods. At Loft Insulation Services UK, our radiant barrier solutions help enhance comfort, lower energy costs, and improve overall building thermal performance — especially where heat gain through the roof or attic is a concern.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Whether you're renovating your loft, upgrading roof insulation, or seeking better home comfort and energy efficiency, radiant barrier insulation can be a useful addition to your insulation strategy.
+                Whether you&apos;re renovating your loft, upgrading roof insulation, or seeking better home comfort and energy efficiency, radiant barrier insulation can be a useful addition to your insulation strategy.
               </p>
             </div>
 
@@ -107,7 +107,7 @@ export default function RadiantBarrierPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">Our Radiant Barrier Insulation Service</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                We provide a full-service radiant barrier insulation installation — from assessment and planning to installation and final inspection. Here's how we deliver it:
+                We provide a full-service radiant barrier insulation installation — from assessment and planning to installation and final inspection. Here&apos;s how we deliver it:
               </p>
 
               {/* Step 1: Initial Survey */}
@@ -250,7 +250,7 @@ export default function RadiantBarrierPage() {
                 <div className="space-y-3">
                   <div className="flex items-start">
                     <AlertTriangle className="h-5 w-5 text-orange-600 mr-3 mt-1 flex-shrink-0" />
-                    <span className="text-gray-700">The climate is cold and heating, rather than cooling, is the primary concern — radiant barriers don't slow conductive or convective heat loss.</span>
+                    <span className="text-gray-700">The climate is cold and heating, rather than cooling, is the primary concern — radiant barriers don&apos;t slow conductive or convective heat loss.</span>
                   </div>
                   <div className="flex items-start">
                     <AlertTriangle className="h-5 w-5 text-orange-600 mr-3 mt-1 flex-shrink-0" />
@@ -332,7 +332,7 @@ export default function RadiantBarrierPage() {
                     <span>Will a radiant barrier affect ventilation or cause moisture issues?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Not if installed properly. It's important to maintain airspace and ensure ventilation paths remain clear. Poor installation — e.g., blocking vents or compressing the barrier against solid surfaces — can impair performance or risk condensation/moisture.
+                    Not if installed properly. It&apos;s important to maintain airspace and ensure ventilation paths remain clear. Poor installation — e.g., blocking vents or compressing the barrier against solid surfaces — can impair performance or risk condensation/moisture.
                   </p>
                 </div>
 
@@ -373,7 +373,7 @@ export default function RadiantBarrierPage() {
                   Get a free, no-obligation quote for professional radiant barrier insulation installation today.
                 </p>
                 <p className="text-lg md:text-xl mb-10 opacity-90">
-                  Enhance your home's thermal performance with our expert radiant barrier solutions.
+                  Enhance your home&apos;s thermal performance with our expert radiant barrier solutions.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Link

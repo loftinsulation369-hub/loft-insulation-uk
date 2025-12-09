@@ -40,7 +40,7 @@ export default function CommercialIndustrialPage() {
                 In large-scale commercial or industrial buildings — warehouses, workshops, factories, retail premises, offices, or multi-unit housing managed commercially — efficient thermal control and proper insulation are essential for energy efficiency, comfort, and cost savings. At Loft Insulation Services UK, our Commercial & Industrial sector offers tailored insulation, roofing and loft-related services designed to meet the unique demands of non-domestic properties. Our solutions help businesses reduce energy costs, improve working conditions, comply with regulations, and protect building integrity.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Whether you manage a retail premises, a block of flats, a manufacturing facility, or a commercial warehouse — our services are scalable, compliant and adaptable to suit your building's structure, usage, and energy-efficiency goals.
+                Whether you manage a retail premises, a block of flats, a manufacturing facility, or a commercial warehouse — our services are scalable, compliant and adaptable to suit your building&apos;s structure, usage, and energy-efficiency goals.
               </p>
             </div>
 
@@ -100,7 +100,7 @@ export default function CommercialIndustrialPage() {
                 </li>
               </ul>
               <p className="text-lg text-gray-700 leading-relaxed">
-                That's why professional, commercial-grade insulation is a smart investment — delivering savings, comfort, compliance, and long-term durability.
+                That&apos;s why professional, commercial-grade insulation is a smart investment — delivering savings, comfort, compliance, and long-term durability.
               </p>
             </div>
 
@@ -464,7 +464,7 @@ export default function CommercialIndustrialPage() {
               
               <div className="relative z-10 text-center">
                 <h3 className="text-3xl md:text-4xl font-bold mb-6">
-                  Ready to Improve Your Commercial Property's Energy Efficiency?
+                  Ready to Improve Your Commercial Property&apos;s Energy Efficiency?
                 </h3>
                 <p className="text-xl md:text-2xl mb-4 opacity-95">
                   Get a free, no-obligation quote for professional commercial and industrial insulation services today.

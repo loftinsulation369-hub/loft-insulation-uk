@@ -24,7 +24,7 @@ export default function InsulationRemovalReplacementPage() {
               Insulation Removal & Replacement
             </h1>
             <p className="text-xl sm:text-2xl text-white/95 leading-relaxed drop-shadow-md">
-              Safely remove old or compromised insulation and replace it with modern, high-performance insulation suited to your home's structure and future use.
+              Safely remove old or compromised insulation and replace it with modern, high-performance insulation suited to your home&apos;s structure and future use.
             </p>
           </div>
         </div>
@@ -37,10 +37,10 @@ export default function InsulationRemovalReplacementPage() {
             {/* Introduction */}
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                When insulation becomes degraded, damaged or simply outdated — or if a loft or roof conversion is planned — simply layering new material over the old is not enough. For optimum safety, performance, and long-term energy efficiency, a professional insulation removal and replacement service is essential. At Loft Insulation Services UK, we provide a full-service solution: safely removing old or compromised insulation and replacing it with modern, high-performance insulation suited to your home's structure and future use.
+                When insulation becomes degraded, damaged or simply outdated — or if a loft or roof conversion is planned — simply layering new material over the old is not enough. For optimum safety, performance, and long-term energy efficiency, a professional insulation removal and replacement service is essential. At Loft Insulation Services UK, we provide a full-service solution: safely removing old or compromised insulation and replacing it with modern, high-performance insulation suited to your home&apos;s structure and future use.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Whether you're dealing with water-damaged insulation, compressed material reducing thermal performance, pest-contaminated insulation, or simply looking to upgrade to a more efficient system — our team ensures a clean, safe, and effective installation from start to finish.
+                Whether you&apos;re dealing with water-damaged insulation, compressed material reducing thermal performance, pest-contaminated insulation, or simply looking to upgrade to a more efficient system — our team ensures a clean, safe, and effective installation from start to finish.
               </p>
             </div>
 
@@ -69,7 +69,7 @@ export default function InsulationRemovalReplacementPage() {
                 </li>
                 <li className="flex items-start">
                   <AlertTriangle className="h-5 w-5 text-orange-500 mr-3 mt-1 flex-shrink-0" />
-                  <span><strong>Loft conversions</strong> — if you're converting a loft, roof, or attic into a habitable room — old insulation may block ventilation, be insufficient, or hinder the structural changes required</span>
+                  <span><strong>Loft conversions</strong> — if you&apos;re converting a loft, roof, or attic into a habitable room — old insulation may block ventilation, be insufficient, or hinder the structural changes required</span>
                 </li>
               </ul>
               <p className="text-lg text-gray-700 leading-relaxed">
@@ -140,7 +140,7 @@ export default function InsulationRemovalReplacementPage() {
                   </li>
                 </ul>
                 <p className="text-gray-700 mt-4 ml-9">
-                  We don't just remove — we restore the space to a clean, safe baseline, ready for re-insulation or renovation.
+                  We don&apos;t just remove — we restore the space to a clean, safe baseline, ready for re-insulation or renovation.
                 </p>
               </div>
 
@@ -170,7 +170,7 @@ export default function InsulationRemovalReplacementPage() {
                   </li>
                 </ul>
                 <p className="text-gray-700 mt-4 ml-9">
-                  Preparation ensures that your new insulation works effectively over the long term and doesn't lead to future damp, condensation, or structural problems.
+                  Preparation ensures that your new insulation works effectively over the long term and doesn&apos;t lead to future damp, condensation, or structural problems.
                 </p>
               </div>
 
@@ -180,7 +180,7 @@ export default function InsulationRemovalReplacementPage() {
                   <RefreshCw className="h-6 w-6 text-orange-600 mr-3" />
                   <h3 className="text-2xl font-bold text-gray-900">4. High-Quality Insulation Replacement</h3>
                 </div>
-                <p className="text-gray-700 mb-3 ml-9">We install modern insulation tailored to your home's structure, use, and energy efficiency goals. Options include:</p>
+                <p className="text-gray-700 mb-3 ml-9">We install modern insulation tailored to your home&apos;s structure, use, and energy efficiency goals. Options include:</p>
                 <ul className="space-y-2 text-gray-700 ml-9">
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-orange-600 mr-3 mt-1 flex-shrink-0" />
@@ -396,7 +396,7 @@ export default function InsulationRemovalReplacementPage() {
                     <span>Can I install new insulation on top of old insulation?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    It's generally not recommended. Old, damaged, damp or compressed insulation can compromise the performance of the new layer, trap moisture, and reduce ventilation. Full removal ensures a proper base for new insulation.
+                    It&apos;s generally not recommended. Old, damaged, damp or compressed insulation can compromise the performance of the new layer, trap moisture, and reduce ventilation. Full removal ensures a proper base for new insulation.
                   </p>
                 </div>
 
@@ -413,7 +413,7 @@ export default function InsulationRemovalReplacementPage() {
                 <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-6 border-l-4 border-primary-blue hover:shadow-lg transition-shadow duration-300">
                   <h3 className="text-xl font-bold text-gray-900 mb-3 flex items-start">
                     <span className="text-primary-blue mr-3 mt-1">5.</span>
-                    <span>Will new insulation improve my home's energy efficiency significantly?</span>
+                    <span>Will new insulation improve my home&apos;s energy efficiency significantly?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
                     Yes. Properly installed insulation reduces heat loss, improves thermal comfort, and reduces heating demand — leading to lower energy bills and improved energy efficiency throughout the home.

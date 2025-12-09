@@ -37,7 +37,7 @@ export default function StructuralInsulatedPanelsPage() {
             {/* Introduction */}
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                Structural Insulated Panels (SIPs) are a modern, energy‑efficient building method combining structural integrity, insulation, airtightness, and rapid construction. At Loft Insulation Services UK, our SIP solutions offer a turnkey approach — delivering insulated, strong, and durable wall, floor, and roof panels that save time, reduce energy loss, and improve comfort. Whether you're building a new home, extension, attic conversion, or energy‑efficient property upgrade — SIPs provide a high-quality, long-lasting solution.
+                Structural Insulated Panels (SIPs) are a modern, energy‑efficient building method combining structural integrity, insulation, airtightness, and rapid construction. At Loft Insulation Services UK, our SIP solutions offer a turnkey approach — delivering insulated, strong, and durable wall, floor, and roof panels that save time, reduce energy loss, and improve comfort. Whether you&apos;re building a new home, extension, attic conversion, or energy‑efficient property upgrade — SIPs provide a high-quality, long-lasting solution.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
                 SIPs integrate structural framing and insulation in one element, reducing thermal bridges, improving airtightness, and accelerating build time. For homeowners, landlords, or developers seeking modern building methods with top thermal performance and minimal maintenance, SIPs are an excellent choice.
@@ -48,7 +48,7 @@ export default function StructuralInsulatedPanelsPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Why Choose Structural Insulated Panels</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                Structural Insulated Panels offer a set of distinctive advantages compared to traditional insulation + frame + block/brick construction. Here's what makes them stand out:
+                Structural Insulated Panels offer a set of distinctive advantages compared to traditional insulation + frame + block/brick construction. Here&apos;s what makes them stand out:
               </p>
               <p className="text-lg text-gray-700 leading-relaxed mb-6 font-semibold">Key Benefits of SIP Construction:</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -144,7 +144,7 @@ export default function StructuralInsulatedPanelsPage() {
                   </li>
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />
-                    <span>Design a panel layout: walls, roof, floors — dimensioned to your property's needs (new build, extension, loft conversion, etc.).</span>
+                    <span>Design a panel layout: walls, roof, floors — dimensioned to your property&apos;s needs (new build, extension, loft conversion, etc.).</span>
                   </li>
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-primary-blue mr-3 mt-1 flex-shrink-0" />

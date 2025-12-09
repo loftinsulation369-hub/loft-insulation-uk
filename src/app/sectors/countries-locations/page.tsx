@@ -37,7 +37,7 @@ export default function CountriesLocationsPage() {
             {/* Introduction */}
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                At Loft Insulation Services UK, we believe high‑quality insulation and loft services should be available everywhere — whether you live in a major city, a suburban neighbourhood, or a rural village. That's why our "Countries & Locations" page outlines the regions and areas we cover across the UK — ensuring you can access certified, professional insulation, loft, and energy‑efficiency services no matter where you are based.
+                At Loft Insulation Services UK, we believe high‑quality insulation and loft services should be available everywhere — whether you live in a major city, a suburban neighbourhood, or a rural village. That&apos;s why our &quot;Countries & Locations&quot; page outlines the regions and areas we cover across the UK — ensuring you can access certified, professional insulation, loft, and energy‑efficiency services no matter where you are based.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
                 Whether you live in London, Manchester, Glasgow, Cardiff, Belfast or anywhere in between — or in a smaller town or rural location — our network of certified installers and service teams is spread across the United Kingdom, ready to deliver prompt, reliable service.
@@ -183,7 +183,7 @@ export default function CountriesLocationsPage() {
                     <MapPin className="h-6 w-6 text-primary-blue mr-3 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Access to Trusted Installers Wherever You Are</h3>
-                      <p className="text-gray-700">You don't need to hunt for a local insulation contractor — we bring certified professionals to your doorstep, regardless of location.</p>
+                      <p className="text-gray-700">You don&apos;t need to hunt for a local insulation contractor — we bring certified professionals to your doorstep, regardless of location.</p>
                     </div>
                   </div>
                 </div>
@@ -348,7 +348,7 @@ export default function CountriesLocationsPage() {
                     <span>What if I live outside your standard coverage area?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    When you request a quote, we verify your postcode. If direct coverage isn't available, we evaluate whether we can dispatch a subcontractor or trusted partner. If not feasible, we guide you to nearest alternatives while maintaining our service standards.
+                    When you request a quote, we verify your postcode. If direct coverage isn&apos;t available, we evaluate whether we can dispatch a subcontractor or trusted partner. If not feasible, we guide you to nearest alternatives while maintaining our service standards.
                   </p>
                 </div>
 
@@ -358,7 +358,7 @@ export default function CountriesLocationsPage() {
                     <span>How do I check if you cover my area?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Simply enter your postcode on our quote or contact form. We'll confirm availability and contact you with a free survey date — or advise if we can't service your location.
+                    Simply enter your postcode on our quote or contact form. We&apos;ll confirm availability and contact you with a free survey date — or advise if we can&apos;t service your location.
                   </p>
                 </div>
 
@@ -378,7 +378,7 @@ export default function CountriesLocationsPage() {
                     <span>Can you manage multiple properties across different regions (e.g. for landlords or property managers)?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Absolutely. We're equipped to handle portfolios across cities, towns, and rural areas — offering central coordination, consistent service, bulk scheduling, and standardised reporting/documentation.
+                    Absolutely. We&apos;re equipped to handle portfolios across cities, towns, and rural areas — offering central coordination, consistent service, bulk scheduling, and standardised reporting/documentation.
                   </p>
                 </div>
               </div>

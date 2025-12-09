@@ -40,7 +40,7 @@ export default function LoftClearancePreparationPage() {
                 Proper loft clearance and preparation form the essential first step before any insulation, boarding, or loft conversion can begin. A clutter-free, safe loft not only allows insulation and boarding work to proceed smoothly — it also transforms the attic into usable space, improves safety, and reduces fire, damp, and pest risks.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                At Loft Insulation Services UK, our Loft Clearance & Preparation service ensures your loft is clean, accessible, and prepped for insulation or any further renovation. Whether it's a simple declutter or full clearance of decades of stored items, our team delivers a professional, efficient, and safe solution — helping you unlock the full potential of your loft space.
+                At Loft Insulation Services UK, our Loft Clearance & Preparation service ensures your loft is clean, accessible, and prepped for insulation or any further renovation. Whether it&apos;s a simple declutter or full clearance of decades of stored items, our team delivers a professional, efficient, and safe solution — helping you unlock the full potential of your loft space.
               </p>
             </div>
 
@@ -69,7 +69,7 @@ export default function LoftClearancePreparationPage() {
                 </li>
               </ul>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Hence, before you install insulation or loft boarding, clearing and preparing the loft is crucial. It's not just about removing clutter — it's about ensuring structural safety, thermal efficiency, and a clean, usable space.
+                Hence, before you install insulation or loft boarding, clearing and preparing the loft is crucial. It&apos;s not just about removing clutter — it&apos;s about ensuring structural safety, thermal efficiency, and a clean, usable space.
               </p>
             </div>
 
@@ -77,7 +77,7 @@ export default function LoftClearancePreparationPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">What Our Loft Clearance & Preparation Service Includes</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                We offer a comprehensive clearance and preparation package designed to make your loft ready for insulation, storage use or conversion. Here's what we handle:
+                We offer a comprehensive clearance and preparation package designed to make your loft ready for insulation, storage use or conversion. Here&apos;s what we handle:
               </p>
 
               {/* Full Clearance */}
@@ -210,7 +210,7 @@ export default function LoftClearancePreparationPage() {
                     <Recycle className="h-6 w-6 text-teal-600 mr-3 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Environmentally Responsible Disposal</h3>
-                      <p className="text-gray-700">Our process emphasises recycling and donation — reducing waste sent to landfill, re-using what's still useful, and disposing responsibly under licensed systems.</p>
+                      <p className="text-gray-700">Our process emphasises recycling and donation — reducing waste sent to landfill, re-using what&apos;s still useful, and disposing responsibly under licensed systems.</p>
                     </div>
                   </div>
                 </div>
@@ -256,7 +256,7 @@ export default function LoftClearancePreparationPage() {
                 </div>
               </div>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Whether you're preparing for insulation, boarding, conversion, or simply clearing out decades of unwanted storage — our service helps you start with a clean slate.
+                Whether you&apos;re preparing for insulation, boarding, conversion, or simply clearing out decades of unwanted storage — our service helps you start with a clean slate.
               </p>
             </div>
 
@@ -271,7 +271,7 @@ export default function LoftClearancePreparationPage() {
                     </div>
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Step 1: Free Consultation & Survey</h3>
-                      <p className="text-gray-700">We assess your loft's contents, access, condition (ventilation, structural state, potential hazards), and quote a clearance plan tailored to your needs.</p>
+                      <p className="text-gray-700">We assess your loft&apos;s contents, access, condition (ventilation, structural state, potential hazards), and quote a clearance plan tailored to your needs.</p>
                     </div>
                   </div>
                 </div>
@@ -283,7 +283,7 @@ export default function LoftClearancePreparationPage() {
                     </div>
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Step 2: Pre-Clearance Advice (if required)</h3>
-                      <p className="text-gray-700">We'll suggest any steps you should take before our team arrives — such as removing items you definitely want to keep, clearing fragile/valuable items, and ensuring access paths are clear.</p>
+                      <p className="text-gray-700">We&apos;ll suggest any steps you should take before our team arrives — such as removing items you definitely want to keep, clearing fragile/valuable items, and ensuring access paths are clear.</p>
                     </div>
                   </div>
                 </div>
@@ -295,7 +295,7 @@ export default function LoftClearancePreparationPage() {
                     </div>
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Step 3: Clearance & Sorting</h3>
-                      <p className="text-gray-700">Our team removes stored items, sorts what's to go for disposal / recycling / donation / storage. We handle heavy lifting, safe removal, and secure transport out of the loft.</p>
+                      <p className="text-gray-700">Our team removes stored items, sorts what&apos;s to go for disposal / recycling / donation / storage. We handle heavy lifting, safe removal, and secure transport out of the loft.</p>
                     </div>
                   </div>
                 </div>
@@ -391,7 +391,7 @@ export default function LoftClearancePreparationPage() {
             <div className="bg-gradient-to-r from-primary-blue/10 to-secondary-blue/10 rounded-3xl p-8 md:p-12 border-2 border-primary-blue/20">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Ready to Transform Your Loft?</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                If your loft is cluttered, underused, or hasn't seen attention in years — it's time to consider clearance and preparation before investing in insulation, boarding, or conversion.
+                If your loft is cluttered, underused, or hasn&apos;t seen attention in years — it&apos;s time to consider clearance and preparation before investing in insulation, boarding, or conversion.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
                 Contact Loft Insulation Services UK today for a free survey and tailored quote. Let us help you turn your attic from a dusty storage space into a clean, usable, safe, and energy-efficient part of your home.

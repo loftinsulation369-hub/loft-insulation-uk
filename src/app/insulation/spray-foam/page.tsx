@@ -66,7 +66,7 @@ export default function SprayFoamPage() {
                     <Home className="h-6 w-6 text-green-600 mr-3 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-2">Excellent for irregular or hard-to-reach spaces</h3>
-                      <p className="text-gray-700">Because spray foam expands and conforms to surfaces, it's especially effective where there are rafters, angled roofs, sloping ceilings, or awkward joist layouts.</p>
+                      <p className="text-gray-700">Because spray foam expands and conforms to surfaces, it&apos;s especially effective where there are rafters, angled roofs, sloping ceilings, or awkward joist layouts.</p>
                     </div>
                   </div>
                 </div>
@@ -120,7 +120,7 @@ export default function SprayFoamPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">Our Spray Foam Insulation Service</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                We provide a full-service spray foam insulation installation — from assessment and planning to application, finishing, and after‑care. Here's what you can expect when you choose our service:
+                We provide a full-service spray foam insulation installation — from assessment and planning to application, finishing, and after‑care. Here&apos;s what you can expect when you choose our service:
               </p>
 
               {/* Step 1: Comprehensive Assessment */}
@@ -198,7 +198,7 @@ export default function SprayFoamPage() {
                 <ul className="space-y-2 text-gray-700 ml-9">
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-orange-600 mr-3 mt-1 flex-shrink-0" />
-                    <span>Verify that loft ventilation requirements are met — even with spray foam's airtight qualities, adequate air movement or ventilation must be maintained according to building regulations.</span>
+                    <span>Verify that loft ventilation requirements are met — even with spray foam&apos;s airtight qualities, adequate air movement or ventilation must be maintained according to building regulations.</span>
                   </li>
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-orange-600 mr-3 mt-1 flex-shrink-0" />
@@ -258,7 +258,7 @@ export default function SprayFoamPage() {
                 </div>
               </div>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Our professional team evaluates your property's needs and recommends the correct foam type — prioritizing thermal efficiency, moisture control, ventilation, and building regulations compliance.
+                Our professional team evaluates your property&apos;s needs and recommends the correct foam type — prioritizing thermal efficiency, moisture control, ventilation, and building regulations compliance.
               </p>
             </div>
 
@@ -266,7 +266,7 @@ export default function SprayFoamPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Why Correct Installation Matters (More Than Ever)</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                Spray foam insulation offers major benefits — but only when installed by trained professionals. Mistakes can reduce effectiveness, lead to damp or ventilation problems, or compromise fire safety. That's why we emphasize:
+                Spray foam insulation offers major benefits — but only when installed by trained professionals. Mistakes can reduce effectiveness, lead to damp or ventilation problems, or compromise fire safety. That&apos;s why we emphasize:
               </p>
               <div className="space-y-4">
                 <div className="flex items-start">
@@ -350,7 +350,7 @@ export default function SprayFoamPage() {
                     <span>Is spray foam insulation suitable for my loft or roof?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
-                    Yes — especially if your loft or roof has irregular rafters or joists, sloped ceilings, hard‑to‑reach spots, or you want maximum insulation and airtightness. After a site assessment, we'll advise whether spray foam is the right choice for your property.
+                    Yes — especially if your loft or roof has irregular rafters or joists, sloped ceilings, hard‑to‑reach spots, or you want maximum insulation and airtightness. After a site assessment, we&apos;ll advise whether spray foam is the right choice for your property.
                   </p>
                 </div>
 
