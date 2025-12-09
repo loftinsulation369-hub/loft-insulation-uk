@@ -37,7 +37,7 @@ export default function BattsRollsPage() {
             {/* Introduction */}
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                If you want an effective, flexible and cost‑efficient way to insulate your loft, roof, floors or ceilings — using insulation batts or rolls is one of the most popular and reliable choices. At Loft Insulation Services UK, our "Insulation Batts & Rolls" offering ensures high-quality materials, professional installation, and long-term performance tailored to each home or building. Whether for new builds, loft upgrades, conversions, or energy‑efficiency retrofits — this solution balances thermal performance, safety, and value.
+                If you want an effective, flexible and cost‑efficient way to insulate your loft, roof, floors or ceilings — using insulation batts or rolls is one of the most popular and reliable choices. At Loft Insulation Services UK, our &quot;Insulation Batts & Rolls&quot; offering ensures high-quality materials, professional installation, and long-term performance tailored to each home or building. Whether for new builds, loft upgrades, conversions, or energy‑efficiency retrofits — this solution balances thermal performance, safety, and value.
               </p>
             </div>
 
@@ -45,7 +45,7 @@ export default function BattsRollsPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Why Choose Batts & Rolls for Insulation</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                Insulation batts or rolls (also known as "blanket insulation") are widely used across the UK for lofts, ceilings, floors and intermediate floors. Their popularity stems from their effectiveness, versatility and ease of installation.
+                Insulation batts or rolls (also known as &quot;blanket insulation&quot;) are widely used across the UK for lofts, ceilings, floors and intermediate floors. Their popularity stems from their effectiveness, versatility and ease of installation.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed mb-6 font-semibold">Key advantages of batts & rolls:</p>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -115,7 +115,7 @@ export default function BattsRollsPage() {
             <div className="bg-white rounded-3xl p-8 md:p-12 shadow-xl">
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-8">Our Batts & Rolls Insulation Service</h2>
               <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                We offer a full-service package for batts & rolls insulation — from assessment and planning to installation and after‑care. Here's what to expect when you choose us:
+                We offer a full-service package for batts & rolls insulation — from assessment and planning to installation and after‑care. Here&apos;s what to expect when you choose us:
               </p>
 
               {/* Step 1: Site Survey */}
@@ -324,7 +324,7 @@ export default function BattsRollsPage() {
                 <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-6 border-l-4 border-primary-blue hover:shadow-lg transition-shadow duration-300">
                   <h3 className="text-xl font-bold text-gray-900 mb-3 flex items-start">
                     <span className="text-primary-blue mr-3 mt-1">1.</span>
-                    <span>What's the difference between insulation rolls and rigid insulation boards?</span>
+                    <span>What&apos;sthe difference between insulation rolls and rigid insulation boards?</span>
                   </h3>
                   <p className="text-gray-700 leading-relaxed ml-8">
                     Rolls (or batts) are flexible, easier to install, and ideal for lofts, between joists or irregular spaces. Rigid boards offer higher thermal resistance per thickness, but are less flexible and often more expensive. Rolls are better for retrofit lofts, while boards suit conversions or tight spaces.
@@ -388,7 +388,7 @@ export default function BattsRollsPage() {
                   Get a free, no-obligation quote for professional batts and rolls insulation installation today.
                 </p>
                 <p className="text-lg md:text-xl mb-10 opacity-90">
-                  Let us help you improve your home's energy efficiency with flexible, cost-effective insulation.
+                  Let us help you improve your home&apos;s energy efficiency with flexible, cost-effective insulation.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Link
