@@ -1,9 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
-import StructuredData from "@/components/StructuredData";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -104,7 +101,6 @@ export default function RootLayout({
   return (
     <html lang="en" className={inter.variable}>
       <head>
-        <StructuredData />
         {/* Clarity tracking code for https://www.loft-insulation-services-uk.com/ */}
         <script
           dangerouslySetInnerHTML={{
@@ -149,9 +145,7 @@ export default function RootLayout({
         {/* End of Tawk.to Script */}
       </head>
       <body className="font-sans antialiased">
-        <Header />
-        <main>{children}</main>
-        <Footer />
+        {children}
       </body>
     </html>
   );
