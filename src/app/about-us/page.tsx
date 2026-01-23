@@ -214,7 +214,7 @@ export default function AboutUsPage() {
                   Ready to Improve Your Home&apos;s Energy Efficiency?
                 </h3>
                 <p className="text-xl md:text-2xl mb-10 opacity-95">
-                  Get in touch with our team today for a free consultation and quote.
+                  Get in touch with our team today for a free consultation.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <Link
