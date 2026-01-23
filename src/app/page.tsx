@@ -1,5 +1,4 @@
 
-import HomeStructuredData from '@/components/HomeStructuredData';
 
 export default function Home() {
   return (
